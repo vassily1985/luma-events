@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T19:42:35.561460+00:00",
+  "generated_at": "2026-04-28T22:25:45.005630+00:00",
   "region": "uk",
   "cities": [
     "london",
@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 530,
+  "count": 534,
   "events": [
     {
       "event_id": "evt-qsRIXTU3GKb3k78",
@@ -49,7 +49,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Savoy",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sq098MfHutWezyy",
@@ -84,7 +88,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-GL5m2RfPWrUKRP9",
@@ -119,42 +127,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
-    },
-    {
-      "event_id": "evt-FBsigMEwdL32saL",
-      "title": "E-Commerce over Breakfast #7 (London)",
-      "slug": "4eazgzw8",
-      "event_link": "https://lu.ma/4eazgzw8",
-      "cover_url": "https://images.lumacdn.com/event-covers/am/da1ede51-b210-418b-9dec-01f45883a7d8.jpg",
-      "start_at": "2026-04-29T08:00:00.000Z",
-      "end_at": "2026-04-29T09:30:00.000Z",
-      "timezone": "Europe/London",
-      "location_type": "offline",
-      "address": "London, United Kingdom",
-      "city": "London",
-      "scraped_for_city": "london",
-      "lat": 51.5125,
-      "lng": -0.0975,
-      "status": "approval_required",
-      "is_free": false,
-      "spots_remaining": null,
-      "guest_count": 3,
-      "host_name": "Matteo",
-      "host_username": "matteosavio",
-      "host_avatar": "https://images.lumacdn.com/avatars/op/e8982b4f-6ccf-4e46-b1b1-63b4cc0fdaa0",
-      "calendar_name": "CommerceCircle",
-      "calendar_slug": "commercecircle",
-      "discovered_via": "tech",
-      "audience": "general",
-      "sector": "general tech",
-      "summary": "",
-      "promoted": false,
-      "cover_link": "https://images.lumacdn.com/event-covers/am/da1ede51-b210-418b-9dec-01f45883a7d8.jpg",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-XPKIQRfEDFKBmYG",
@@ -189,7 +166,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Broadgate Tower",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DPHPzllt1WGBTP3",
@@ -224,7 +205,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Old Street",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Pq6gcSPEKYjctag",
@@ -259,7 +244,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Edinburgh New Town",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ydD4NkbZANdCMTy",
@@ -294,7 +283,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Edinburgh Old Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-GSQQUDzMMQn9iOR",
@@ -329,7 +322,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Finsbury",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sPCj87FthHIfbDL",
@@ -364,7 +361,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-AfjnQb1jw7rczab",
@@ -399,7 +400,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Farringdon",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ZEqFj6A9HIdtxuo",
@@ -434,7 +439,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8PJRwpAEcD7YbIk",
@@ -454,7 +463,7 @@
       "status": "sold_out",
       "is_free": true,
       "spots_remaining": 0,
-      "guest_count": 43,
+      "guest_count": 42,
       "host_name": "Kelvin Miles",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/xe/27860b31-1662-4f49-ae25-08f63cb61914.png",
@@ -469,7 +478,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-VHT4dDJHxhJIwLu",
@@ -504,7 +517,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Excel London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DOoTZn8mIbjKnje",
@@ -539,7 +556,43 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The University of Edinburgh King's Buildings Campus",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
+    },
+    {
+      "event_id": "evt-3aJbdEfOJHynupP",
+      "title": "Manchester Impact Ventures Celebration Drop-in Event",
+      "event_link": "https://lu.ma/ne1yrbi2",
+      "cover_link": "https://images.lumacdn.com/event-covers/xz/0c00867c-44c5-4306-91b5-f0713ae4b8c5.png",
+      "start_at": "2026-04-29T11:00:00.000Z",
+      "end_at": "2026-04-29T12:30:00.000Z",
+      "timezone": "Europe/London",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "mode": "in_person",
+      "status": "open",
+      "guest_count": 3,
+      "host_name": "MEC",
+      "area": "Chorlton-on-Medlock",
+      "address": "Alliance Manchester Business School, Chorlton-on-Medlock, Manchester, United Kingdom",
+      "lat": 53.4673817,
+      "lng": -2.2374283999999998,
+      "is_free": true,
+      "spots_remaining": null,
+      "host_avatar": "https://images.lumacdn.com/avatars/k8/a2319973-c00d-4cd4-b741-701fe59ef2fe.png",
+      "host_username": null,
+      "calendar_name": "Personal",
+      "scraped_for_city": "manchester",
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": [],
+      "summary": "",
+      "promoted": false
     },
     {
       "event_id": "evt-8DeOufJaSEVH9Mb",
@@ -574,7 +627,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-88UjuUHqIv7oAgH",
@@ -609,7 +666,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-El1eY6sI436kabv",
@@ -644,7 +705,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-z6MnMzBW3HekrNP",
@@ -679,7 +744,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sr6NjWFUnNi2FUc",
@@ -714,7 +783,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Woodhouse",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-RFpDFMdS5ajEadc",
@@ -749,7 +822,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Hyde Park Estate",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-rD5bnXjSOlGyCsH",
@@ -769,7 +846,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 10,
+      "guest_count": 11,
       "host_name": "Tatjana Kecojevic",
       "host_username": "TanjaKec",
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_17.png",
@@ -784,7 +861,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Chorlton-on-Medlock",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-BtebGLmZrFxW4PY",
@@ -819,7 +900,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-OarBKj7JuR6jAhp",
@@ -854,7 +939,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-YEVd8MBIjgDvutR",
@@ -889,7 +978,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-VNnafSbQmiGbP9o",
@@ -908,7 +1001,7 @@
       "lng": 0.1203103,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 82,
+      "spots_remaining": 81,
       "guest_count": 0,
       "host_name": "CRASSH",
       "host_username": "CRASSHEvents",
@@ -924,7 +1017,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Cambridge",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oulxw9s3hqfQ4C0",
@@ -959,7 +1056,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Westminster",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JtQ9KnTD6bz0gxS",
@@ -978,7 +1079,7 @@
       "lng": -0.1384448,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 14,
+      "spots_remaining": 12,
       "guest_count": 0,
       "host_name": "Powering Asia",
       "host_username": null,
@@ -994,7 +1095,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fitzrovia",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pMh1QECCi9bCfM5",
@@ -1014,7 +1119,7 @@
       "status": "sold_out",
       "is_free": false,
       "spots_remaining": 0,
-      "guest_count": 87,
+      "guest_count": 86,
       "host_name": "CPO Connect",
       "host_username": "cpoconnect",
       "host_avatar": "https://images.lumacdn.com/avatars/3j/1b182061-21b7-42b3-9307-0403157fb668.png",
@@ -1029,7 +1134,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Farringdon",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-2mHc5QaWdIp6uQx",
@@ -1064,7 +1173,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-mwWv5a0BZyP8BDI",
@@ -1083,8 +1196,8 @@
       "lng": -0.105,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 14,
-      "guest_count": 61,
+      "spots_remaining": 15,
+      "guest_count": 60,
       "host_name": "Jason Knight",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/ri/58797f9d-c5c9-4e46-9780-f006862ee388",
@@ -1099,7 +1212,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-nd5drLZrOR16ayj",
@@ -1119,7 +1236,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 85,
+      "guest_count": 86,
       "host_name": "TransformGov Talks",
       "host_username": "TransformGTalks",
       "host_avatar": "https://images.lumacdn.com/avatars/1u/6e3c3b73-2992-486d-b98b-973f65f2b09f",
@@ -1134,7 +1251,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-b2cUezTvGAKeJ7u",
@@ -1153,8 +1274,8 @@
       "lng": -0.0938942,
       "status": "near_capacity",
       "is_free": false,
-      "spots_remaining": 3,
-      "guest_count": 87,
+      "spots_remaining": 2,
+      "guest_count": 88,
       "host_name": "UX Crunch",
       "host_username": "UXCrunch",
       "host_avatar": "https://images.lumacdn.com/avatars/rl/31585a11-3002-4d84-95c4-636d8bb686f7.png",
@@ -1169,7 +1290,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-K1sf7boflMjzWoL",
@@ -1188,8 +1313,8 @@
       "lng": -0.099258,
       "status": "open",
       "is_free": false,
-      "spots_remaining": 53,
-      "guest_count": 72,
+      "spots_remaining": 52,
+      "guest_count": 73,
       "host_name": "Critical Mass",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/6u/6f8b13c3-92ce-4767-b564-4c67a980f41e.jpg",
@@ -1204,7 +1329,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-zWHKfCQvILsfAjs",
@@ -1239,7 +1368,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4rEEA4tUjDCtS6N",
@@ -1274,7 +1407,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-tIRiBd3K6mEVaSr",
@@ -1309,7 +1446,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-QAej00k4acMdpdV",
@@ -1344,7 +1485,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jpN16DQ8WdvcH2v",
@@ -1361,10 +1506,10 @@
       "scraped_for_city": "london",
       "lat": 51.529834799999996,
       "lng": -0.11872579999999999,
-      "status": "near_capacity",
+      "status": "sold_out",
       "is_free": true,
-      "spots_remaining": 4,
-      "guest_count": 116,
+      "spots_remaining": 0,
+      "guest_count": 120,
       "host_name": "Bilge Y\u00fccel",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/q8/0149fc2e-41fe-4d20-ad38-9f94db45f149",
@@ -1379,7 +1524,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JLLI305Xc0GJ4jK",
@@ -1414,7 +1563,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sjmUGm1HkIupTdw",
@@ -1449,7 +1602,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Deansgate",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jsaC6FzjpEskqMt",
@@ -1484,7 +1641,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Retail District",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-X98zjnnNmOWMLtH",
@@ -1519,7 +1680,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-E2FD4ZEkoZ7tzna",
@@ -1554,7 +1719,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Barbican",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-v3y0qd1luE1VkdR",
@@ -1589,7 +1758,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Mayfair",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-BhmhyjJTZQH31TB",
@@ -1608,7 +1781,7 @@
       "lng": -0.11818179999999999,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 38,
+      "spots_remaining": 39,
       "guest_count": 0,
       "host_name": "Edgar ter Danielyan",
       "host_username": null,
@@ -1624,7 +1797,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-1O01iX9FrpwSXgI",
@@ -1659,7 +1836,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-92FKxiU4Ce7k2BU",
@@ -1678,7 +1859,7 @@
       "lng": -0.1297729,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 25,
+      "spots_remaining": 24,
       "guest_count": 0,
       "host_name": "LocalGlobe",
       "host_username": null,
@@ -1694,7 +1875,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Somers Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-OKrRHApz6P5efFH",
@@ -1729,7 +1914,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Borough Market",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cKtMoCQMf3jAQdG",
@@ -1764,7 +1953,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Z1lwR7QFe47HcuB",
@@ -1783,8 +1976,8 @@
       "lng": -0.0713456,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 13,
-      "guest_count": 77,
+      "spots_remaining": 12,
+      "guest_count": 78,
       "host_name": "Agnes Cameron",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/in/1b72775d-9718-42ec-9636-5f2539f02b09.png",
@@ -1799,7 +1992,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hyo55gkzDE9DhBt",
@@ -1818,8 +2015,8 @@
       "lng": -0.12772039999999998,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 12,
-      "guest_count": 48,
+      "spots_remaining": 13,
+      "guest_count": 47,
       "host_name": "Katrien",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/13/9aa990ec-a323-42a5-ba2f-30f93af3f087.jpg",
@@ -1834,7 +2031,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-QquWAH2ChOQkHVR",
@@ -1869,7 +2070,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Cambridge",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-H7FVjMSOEeAtyKi",
@@ -1904,7 +2109,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-TlOEFwKlD3J1Ys3",
@@ -1923,7 +2132,7 @@
       "lng": -0.1475,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 16,
+      "spots_remaining": 15,
       "guest_count": 0,
       "host_name": "Million Dollar Sellers (MDS)",
       "host_username": "eventsMDS",
@@ -1939,7 +2148,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4qkJXoKRBG14Uy1",
@@ -1974,7 +2187,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-RP7YuLY06sxY7WR",
@@ -1993,7 +2210,7 @@
       "lng": -0.02,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 5,
+      "spots_remaining": 3,
       "guest_count": 0,
       "host_name": "Jason",
       "host_username": "jasonr",
@@ -2009,7 +2226,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-gH2dQ4CqP0q0VmS",
@@ -2026,9 +2247,9 @@
       "scraped_for_city": "london",
       "lat": 51.512649599999996,
       "lng": -0.13883099999999998,
-      "status": "approval_required",
+      "status": "sold_out",
       "is_free": false,
-      "spots_remaining": 1,
+      "spots_remaining": 0,
       "guest_count": 0,
       "host_name": "Ronald Cummings-John",
       "host_username": null,
@@ -2044,7 +2265,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Carnaby",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dXBAkqldmMZX2RM",
@@ -2079,7 +2304,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-VA22kyrU7sB0m1K",
@@ -2114,7 +2343,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-I7qX01BHN1nYkZp",
@@ -2149,7 +2382,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HI8DmjEilMbmIxM",
@@ -2184,7 +2421,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-6zD6DkHq2FCshTp",
@@ -2219,7 +2460,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sHPBtJRoSHVs5Pz",
@@ -2254,7 +2499,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PVeicFR6Uj9fS6H",
@@ -2289,7 +2538,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Gx0xGbGbGXRhYeR",
@@ -2324,7 +2577,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-qzXWeXNG1Zf6CHT",
@@ -2359,7 +2616,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-fpy5lDwB33KHrA3",
@@ -2394,7 +2655,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Chorlton-on-Medlock",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EZI00TvxD6K3jp2",
@@ -2429,7 +2694,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "St Martin's Courtyard",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-GYz8DPE8NOPJGx7",
@@ -2464,7 +2733,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Covent Garden",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-3EL3gbXjQObJ5FG",
@@ -2499,7 +2772,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Holborn",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cBhEeq6NdXBq8Wt",
@@ -2534,7 +2811,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kDx6b9VPYfawPr9",
@@ -2569,7 +2850,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Hgmfh7r2zCTnQQM",
@@ -2604,7 +2889,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-m5EP2aoOVtm2szm",
@@ -2639,7 +2928,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9E7ibMof7T1cjR7",
@@ -2674,7 +2967,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-zE5chTINyKN90Im",
@@ -2709,7 +3006,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "London School of Economics and Political Science",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cWjNKToCCEI1GNL",
@@ -2744,7 +3045,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pcXY4gEaqu0Y8TD",
@@ -2779,7 +3084,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Jericho",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-d2G7c9kvUOaF3LF",
@@ -2814,7 +3123,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-y7xovOgukrRsn25",
@@ -2849,7 +3162,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-o0z6r9d1uXEDKGy",
@@ -2884,7 +3201,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Temple",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kGg4m2oDiI9GHSA",
@@ -2919,7 +3240,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HsLO01Mm2p9ZHLp",
@@ -2954,7 +3279,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Paddington",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Ck40Jvy0yqvRHuB",
@@ -2989,7 +3318,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Farringdon",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ONruVnNJUDKGMNv",
@@ -3024,7 +3357,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-UtCRQAn0jz6C7aJ",
@@ -3059,7 +3396,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JQ5proBMMo6BBpA",
@@ -3076,9 +3417,9 @@
       "scraped_for_city": "london",
       "lat": 51.5275,
       "lng": -0.0875,
-      "status": "sold_out",
+      "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 0,
+      "spots_remaining": 1,
       "guest_count": 0,
       "host_name": "Pip",
       "host_username": "pipbrown",
@@ -3094,7 +3435,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-y7yj5ylqiafFxiF",
@@ -3129,7 +3474,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JVqGusSDWJ38EBo",
@@ -3149,7 +3498,7 @@
       "status": "approval_required",
       "is_free": false,
       "spots_remaining": null,
-      "guest_count": 14,
+      "guest_count": 16,
       "host_name": "Orcun Dogmazer",
       "host_username": "orcun",
       "host_avatar": "https://images.lumacdn.com/avatars/di/87580a34-e325-4de2-a319-c7b50656ccae.png",
@@ -3164,7 +3513,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PEhS2BJGh5lvz08",
@@ -3184,7 +3537,7 @@
       "status": "sold_out",
       "is_free": false,
       "spots_remaining": 0,
-      "guest_count": 169,
+      "guest_count": 170,
       "host_name": "Francisco Terpolilli",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/5y/631eb52d-ce42-4b5c-b909-ad557b60cb0d.jpg",
@@ -3199,7 +3552,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9z6SgMhzFxS3CNR",
@@ -3234,7 +3591,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-3AZHV3ytmNfD5iI",
@@ -3251,10 +3612,10 @@
       "scraped_for_city": "oxford",
       "lat": 51.7532523,
       "lng": -1.2682700999999998,
-      "status": "open",
+      "status": "near_capacity",
       "is_free": true,
-      "spots_remaining": 6,
-      "guest_count": 74,
+      "spots_remaining": 5,
+      "guest_count": 75,
       "host_name": "GaYeon Ji",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_26.png",
@@ -3269,7 +3630,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-7G3sWs4HhSLg0vM",
@@ -3304,7 +3669,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hfo1KABgnd9sbpY",
@@ -3339,7 +3708,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5sBhGkdJjgq89mm",
@@ -3374,7 +3747,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-k9o3AGDv1s2ZQCA",
@@ -3409,7 +3786,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-G6iCKPeU7p7MovC",
@@ -3444,7 +3825,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9CIdH2opIimJYpr",
@@ -3479,7 +3864,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Dalston",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-TuxsKti8iYncM1n",
@@ -3514,7 +3903,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-zMpXuLPq3a9NzQD",
@@ -3549,7 +3942,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cVbhZEQYI8D4Uqf",
@@ -3584,7 +3981,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Spitalfields",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8fx1oVbskLTagDn",
@@ -3619,7 +4020,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-U37HANLBTCtK9PE",
@@ -3638,7 +4043,7 @@
       "lng": -0.13,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 7,
+      "spots_remaining": 3,
       "guest_count": 0,
       "host_name": "Remy Messadene",
       "host_username": null,
@@ -3654,7 +4059,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-rGhKPxqA2gGgNCL",
@@ -3689,7 +4098,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-KgKirvXGBOcWfts",
@@ -3709,7 +4122,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 241,
+      "guest_count": 242,
       "host_name": "Sam Hepburn",
       "host_username": "sammyhep",
       "host_avatar": "https://images.lumacdn.com/avatars/iq/9089b97b-9403-4f71-a273-e0da25d9290c.png",
@@ -3724,7 +4137,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-mobC18IkdMdRgQ2",
@@ -3743,7 +4160,7 @@
       "lng": -0.0875,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 20,
+      "spots_remaining": 19,
       "guest_count": 0,
       "host_name": "Max Tatton-Brown",
       "host_username": "MaxTB",
@@ -3759,7 +4176,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-RjGaLkOKWiBQSBs",
@@ -3794,7 +4215,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-2vsInNlhrVZvvkb",
@@ -3829,7 +4254,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PUt5b3yIJUlLsq6",
@@ -3864,7 +4293,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-LhEuQ8wdlKie4FQ",
@@ -3899,7 +4332,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pBNmtDhwMhd0QSB",
@@ -3934,7 +4371,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Lanes",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JCSmOADg5Nbjo74",
@@ -3969,7 +4410,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-yG2FN0LiKSgjlE8",
@@ -4004,7 +4449,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-azEOV8eB5eQzvLo",
@@ -4039,7 +4488,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CMrxksR3BWfQ1AX",
@@ -4059,7 +4512,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 110,
+      "guest_count": 112,
       "host_name": "Edward Saperia",
       "host_username": "edsaperia",
       "host_avatar": "https://cdn.lu.ma/avatars/eb/1b2f42e5-48c6-4115-8f56-e4406079ba3b",
@@ -4074,7 +4527,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CrOW4zzJlUmrRE6",
@@ -4109,7 +4566,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Covent Garden",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ARTUfwdnYgikmt7",
@@ -4144,7 +4605,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jyXkDXtnH3KTpuu",
@@ -4179,7 +4644,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cRApGgz5ihpfOgS",
@@ -4214,7 +4683,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ne3vqB4BMdCP1Wl",
@@ -4249,7 +4722,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CPst95aZMY3v3in",
@@ -4284,7 +4761,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sMyL84sJczhU8Fp",
@@ -4319,7 +4800,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-FxcYdMbbsiIUKEh",
@@ -4354,7 +4839,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ch3DeGi73B1bMpu",
@@ -4389,7 +4878,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-k7vDNaOMOEkJFj1",
@@ -4424,7 +4917,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8EZEOGKQR4xYkUX",
@@ -4459,7 +4956,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HLvDn3OMyhb7JYm",
@@ -4494,7 +4995,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Po8K2bYlfoDvKVh",
@@ -4529,7 +5034,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Brighton",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EsokS0OVaPakldZ",
@@ -4548,7 +5057,7 @@
       "lng": -0.080125,
       "status": "open",
       "is_free": false,
-      "spots_remaining": 88,
+      "spots_remaining": 86,
       "guest_count": 0,
       "host_name": "Antidote BTC",
       "host_username": "antidotebtc",
@@ -4564,7 +5073,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-S3O8vyCvfUANgeD",
@@ -4599,7 +5112,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Broadgate Circle",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-yjl3uL9pE4eD3nZ",
@@ -4634,7 +5151,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-xRPTo2tM3GIlE4V",
@@ -4669,7 +5190,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Chorlton-on-Medlock",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4cT0I45qtIuqA3G",
@@ -4704,7 +5229,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Lewisham",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-B2mHDwmAJx87qvx",
@@ -4739,7 +5268,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DoOFyuaQBmZHGAw",
@@ -4774,7 +5307,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Sp3EEr6HeFDE1kV",
@@ -4809,7 +5346,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pT1Cj9CrELT3QnT",
@@ -4839,7 +5380,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-iVEzXp58E1RhHfq",
@@ -4874,7 +5419,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cBDGJSTJwFcjGtO",
@@ -4909,7 +5458,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PFo7gEThgHTCzSQ",
@@ -4944,7 +5497,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vfmTQkQYgHPg0qQ",
@@ -4979,7 +5536,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-p9ykEroseOJsEgD",
@@ -5014,7 +5575,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Cambridge",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kNrMhe2QLYdVO0C",
@@ -5033,7 +5598,7 @@
       "lng": -0.085,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 317,
+      "spots_remaining": 315,
       "guest_count": 0,
       "host_name": "MongoDB",
       "host_username": null,
@@ -5049,7 +5614,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HsTAE13yXePWI0q",
@@ -5084,7 +5653,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Regent's Park",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PmEXJWwWwmmh1eT",
@@ -5119,7 +5692,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Haymarket",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-BxX2ENQCzb6jmAA",
@@ -5154,7 +5731,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fish Island",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-AEHp2gbKkmB1Hou",
@@ -5189,7 +5770,43 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
+    },
+    {
+      "event_id": "evt-ZdQSSIBx5Vrm9Ju",
+      "title": "TGN Salons: Music Edition w/ Classically Social",
+      "event_link": "https://lu.ma/33i3q2fj",
+      "cover_link": "https://images.unsplash.com/photo-1537705738815-0616c58a641e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHwxNHx8cGlhbm8lMjBzb2NpYWx8ZW58MHx8fHwxNzc3MDUxNzY5fDI&ixlib=rb-4.1.0&q=80&w=1080",
+      "start_at": "2026-05-02T17:00:00.000Z",
+      "end_at": "2026-05-02T23:00:00.000Z",
+      "timezone": "Europe/London",
+      "city": "London",
+      "country": "United Kingdom",
+      "mode": "in_person",
+      "status": "open",
+      "guest_count": 5,
+      "host_name": "",
+      "area": "",
+      "address": "Leaf & Cane, London, United Kingdom",
+      "lat": 51.5121669,
+      "lng": -0.1044197,
+      "is_free": false,
+      "spots_remaining": 45,
+      "host_avatar": "",
+      "host_username": "",
+      "calendar_name": "The Graduate Network",
+      "scraped_for_city": "london",
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": [],
+      "summary": "",
+      "promoted": false
     },
     {
       "event_id": "evt-g2Um2LO7UmZ6OvS",
@@ -5208,8 +5825,8 @@
       "lng": -0.11460139999999999,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 8,
-      "guest_count": 7,
+      "spots_remaining": 7,
+      "guest_count": 8,
       "host_name": "Oscar Falemara",
       "host_username": "oscarama",
       "host_avatar": "https://images.lumacdn.com/avatars/mu/6b93f3c2-8d40-482f-aac5-ed100b044a00.jpg",
@@ -5224,7 +5841,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-IZs5Gsr1SGbRg4p",
@@ -5243,8 +5864,8 @@
       "lng": -0.065,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 8,
-      "guest_count": 124,
+      "spots_remaining": 6,
+      "guest_count": 126,
       "host_name": "Tony Mckinlay",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/3s/f4d55408-b5c6-445b-8c26-09d1da020def.jpg",
@@ -5259,7 +5880,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DAhPapTh1lLH2AV",
@@ -5279,7 +5904,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 5,
+      "guest_count": 6,
       "host_name": "Noam",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_9.png",
@@ -5294,7 +5919,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Ji6brtFaX1jSCV4",
@@ -5329,7 +5958,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-gmanhSktHZsVlrs",
@@ -5364,7 +5997,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-yUupoHgy19AKCkd",
@@ -5399,7 +6036,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8Xx9MXINe1GaBcS",
@@ -5434,7 +6075,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-zB3ap5DfAaAcIw9",
@@ -5469,7 +6114,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "St Katharine's & Wapping",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5BOAVJBJHvlVCnT",
@@ -5504,7 +6153,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-0tCf5ueUIWzZci3",
@@ -5523,7 +6176,7 @@
       "lng": -0.1425,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 13,
+      "spots_remaining": 11,
       "guest_count": 0,
       "host_name": "Ian Povey-Hall",
       "host_username": null,
@@ -5539,7 +6192,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Soho",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-t2zbBc0QIyCutSy",
@@ -5574,7 +6231,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-yDQr6Ea3LflcIiy",
@@ -5593,8 +6254,8 @@
       "lng": -0.1528891,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 222,
-      "guest_count": 678,
+      "spots_remaining": 221,
+      "guest_count": 679,
       "host_name": "Adam Richards",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/ve/887371ca-597f-4fa8-b887-790e86a99a96.jpg",
@@ -5609,7 +6270,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-q9ljzS2gCPn0O2A",
@@ -5644,7 +6309,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "University of Oxford",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HQBxKQT9rCk2tZD",
@@ -5679,7 +6348,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-SO5zXiZ10qaFIFy",
@@ -5714,7 +6387,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kAGOvn3eu02mk8v",
@@ -5749,7 +6426,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-RGR1NEaNI08Cmol",
@@ -5784,7 +6465,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Regent's Place",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CEwtBL6V9sScnk9",
@@ -5819,7 +6504,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-QJ6AcB35lzVUzaH",
@@ -5849,7 +6538,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5vgHDHiieFNVzm3",
@@ -5884,7 +6577,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Somers Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-wIbdR4aTErtXPTP",
@@ -5903,7 +6600,7 @@
       "lng": -0.0838392,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 12,
+      "spots_remaining": 11,
       "guest_count": 0,
       "host_name": "Scott Law",
       "host_username": null,
@@ -5919,7 +6616,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CzD9U7IppHnWpLQ",
@@ -5938,8 +6639,8 @@
       "lng": -0.0876923,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 49,
-      "guest_count": 101,
+      "spots_remaining": 48,
+      "guest_count": 102,
       "host_name": "Gary Sprague",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_10.png",
@@ -5954,7 +6655,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4wfjVpsQxBsTe9i",
@@ -5973,8 +6678,8 @@
       "lng": -0.0713456,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 16,
-      "guest_count": 9,
+      "spots_remaining": 15,
+      "guest_count": 10,
       "host_name": "Asil Sidahmed",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_19.png",
@@ -5989,7 +6694,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-T3nhiDuWY0M4aJy",
@@ -6024,7 +6733,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Holborn",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-spWV3aGTTj8hfdS",
@@ -6059,7 +6772,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Holborn",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-1FfnrmuHfGWSTAJ",
@@ -6094,7 +6811,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Soho",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-XqGfmCsmPh7xbLO",
@@ -6129,7 +6850,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Holborn",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-I9mJuYpuncCaQcB",
@@ -6164,7 +6889,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pGziDQRCv6kjNNa",
@@ -6199,7 +6928,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Cambridge",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JKiZxxXo6Oydfb1",
@@ -6234,7 +6967,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Carnaby",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ikSUFMV4jvObomI",
@@ -6269,7 +7006,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fitzrovia",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CsRusr5YZAwRVGF",
@@ -6304,7 +7045,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Farringdon",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-y7pwbrPwEoYUuDW",
@@ -6323,7 +7068,7 @@
       "lng": 0.11963159999999999,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 207,
+      "spots_remaining": 206,
       "guest_count": 0,
       "host_name": "James Leung",
       "host_username": null,
@@ -6339,7 +7084,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Cambridge",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-uIOqfbELsnchr8e",
@@ -6374,7 +7123,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sG8HCyKEekgjaHD",
@@ -6409,7 +7162,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Farringdon",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-awJdvUhRrkAPPfy",
@@ -6444,7 +7201,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Chorlton-on-Medlock",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kPccH2bIFUukerv",
@@ -6479,7 +7240,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hTok486cbFjIHFM",
@@ -6514,7 +7279,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-T082tyxHojNYCEc",
@@ -6533,8 +7302,8 @@
       "lng": -0.08390170000000001,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 8,
-      "guest_count": 192,
+      "spots_remaining": 7,
+      "guest_count": 193,
       "host_name": "Leo Tyson",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_3.png",
@@ -6549,7 +7318,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Tu77JytvlRspg1i",
@@ -6584,7 +7357,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5jV0LdktHzU1Jo7",
@@ -6619,7 +7396,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Clifton",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vmyDUCObL2FUPyN",
@@ -6654,7 +7435,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-M23lWBJ4EAH4QCI",
@@ -6689,7 +7474,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DnUmTFdT8U5csVj",
@@ -6724,7 +7513,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Covent Garden",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-7lbkdohOFkcmBKK",
@@ -6759,7 +7552,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-NRUWBk7R7R7XgwO",
@@ -6794,7 +7591,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-fRBjuUZYiR0IjgM",
@@ -6829,7 +7630,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-1xEE3Lp2HyJsJRH",
@@ -6864,7 +7669,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-QKFEzkBrSd5YPsS",
@@ -6899,7 +7708,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-SISp7Qj07TmAM21",
@@ -6918,8 +7731,8 @@
       "lng": -4.2605733,
       "status": "near_capacity",
       "is_free": true,
-      "spots_remaining": 4,
-      "guest_count": 21,
+      "spots_remaining": 3,
+      "guest_count": 22,
       "host_name": "makestuff.club",
       "host_username": "makestuffclub",
       "host_avatar": "https://images.lumacdn.com/avatars/0c/3920f56f-9894-48d7-a656-a77e0ee99fd2.jpg",
@@ -6934,7 +7747,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ks2seGaThVoHuNm",
@@ -6969,7 +7786,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-82tB06tHgCd3m6v",
@@ -7004,7 +7825,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EoAXwsGt3n1PPgM",
@@ -7039,7 +7864,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-FIHIDfFU6ifHD0E",
@@ -7074,7 +7903,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-RcKEJMbZgW9TdM8",
@@ -7109,7 +7942,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Ucg92M4v5j3AjJY",
@@ -7144,7 +7981,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-xWZwa9YRTXLoUFg",
@@ -7179,7 +8020,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oLEhpwVs3r5d0FX",
@@ -7198,8 +8043,8 @@
       "lng": -0.2822206,
       "status": "open",
       "is_free": false,
-      "spots_remaining": 11,
-      "guest_count": 14,
+      "spots_remaining": 10,
+      "guest_count": 15,
       "host_name": "Soulgirl Collective",
       "host_username": "Soulgirl_events",
       "host_avatar": "https://images.lumacdn.com/avatars/kg/1e212409-a04e-40f4-b7dd-69a3068370bc.png",
@@ -7214,7 +8059,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JgteTQI92krsEtZ",
@@ -7249,7 +8098,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kTEF34DsMejaJ6C",
@@ -7284,7 +8137,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JDNwotPROCDElV8",
@@ -7319,7 +8176,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JipzJZ19ZaAIIaD",
@@ -7354,7 +8215,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Hove",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-0UnE6gQoC0Dp83L",
@@ -7373,8 +8238,8 @@
       "lng": -0.090129,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 23,
-      "guest_count": 47,
+      "spots_remaining": 11,
+      "guest_count": 59,
       "host_name": "Vanta",
       "host_username": "Vanta",
       "host_avatar": "https://images.lumacdn.com/avatars/pk/0034ef1d-513f-44c9-a977-97e641289512",
@@ -7389,7 +8254,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-drcD5b40h3krGR3",
@@ -7424,7 +8293,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ljdBEiuhdU9CY8a",
@@ -7459,7 +8332,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "St. James's",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Ac4Xqqoz0Dp4JIb",
@@ -7494,7 +8371,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jzwhjIvZNpbr994",
@@ -7529,7 +8410,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hkKnHVKCk0o7K11",
@@ -7564,7 +8449,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-tyObgLnamLU75AE",
@@ -7599,7 +8488,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-tYU5n1XYYiWjztS",
@@ -7634,7 +8527,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-nHywrRUb4EFqKxg",
@@ -7669,7 +8566,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-MWVUeRMDdockucx",
@@ -7704,7 +8605,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ChRac64JHCZedJo",
@@ -7739,7 +8644,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-KeEfUaItXcLhwhq",
@@ -7774,7 +8683,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Holborn",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kc7LSP8PCNQBxmd",
@@ -7809,7 +8722,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf Estate",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-aTLpSRTIz8UPrbW",
@@ -7844,7 +8761,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dm7fiZlDGchUQk1",
@@ -7879,7 +8800,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Leeds City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jYyvOUJXgwfmLq0",
@@ -7900,7 +8825,7 @@
       "lat": 51.53,
       "lng": -0.07,
       "is_free": false,
-      "spots_remaining": 40,
+      "spots_remaining": 39,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_6.png",
       "host_username": null,
       "calendar_name": "Wonder Studios",
@@ -7909,7 +8834,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-qY4fCNd3DB4AGng",
@@ -7944,7 +8873,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dJGBhLoG9HK83qj",
@@ -7979,7 +8912,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-k9pfIqUdmxlIodP",
@@ -8014,7 +8951,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9jySnErVIfACJoP",
@@ -8034,7 +8975,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 32,
+      "guest_count": 33,
       "host_name": "Belfast Design",
       "host_username": "belfastdesign",
       "host_avatar": "https://images.lumacdn.com/avatars/n7/4c2807bf-3561-4f20-be7f-8e1878efd559.jpg",
@@ -8049,7 +8990,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CDgIamHu1hMvNHD",
@@ -8084,7 +9029,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-lE78ufX0Hdu4WMN",
@@ -8119,7 +9068,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf Estate",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-SiVgoBMi6p2UXBY",
@@ -8154,7 +9107,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ZqHA7a4I0oEK5qi",
@@ -8189,7 +9146,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CkEKnWgFI9tTgSn",
@@ -8224,7 +9185,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PLY6zLauYBnOqZh",
@@ -8259,7 +9224,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Niey2SzU6YfKZWu",
@@ -8294,7 +9263,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "London School of Economics and Political Science",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DE8azTREDd0WTX2",
@@ -8329,7 +9302,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-SwHeubeUM4Epzoh",
@@ -8364,7 +9341,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8wzq6XffQapUJPi",
@@ -8399,7 +9380,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ASVv97lweHsEESG",
@@ -8434,7 +9419,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-FGMjAVTmS0gUOWn",
@@ -8469,7 +9458,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Greenland Place",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-okYHybyTDznnInp",
@@ -8504,7 +9497,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ypDZ6H674QNtgMM",
@@ -8539,7 +9536,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Regent's University London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ECB7bSmZi5SMg0H",
@@ -8574,7 +9575,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5iIu8AsSvfXQHyY",
@@ -8609,7 +9614,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Farringdon",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-VGyL5sVlPFV4L5F",
@@ -8644,7 +9653,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-6SxZx2sRIroxlTP",
@@ -8679,7 +9692,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-1ilM88lkemprl1f",
@@ -8699,7 +9716,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 11,
+      "guest_count": 12,
       "host_name": "Harry Burdon",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_35.png",
@@ -8714,7 +9731,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-rE59FPeiUWXmE7y",
@@ -8749,7 +9770,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Brighton Beach",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-wEm3eNEREAc3tck",
@@ -8784,7 +9809,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5dn8Jgf6iYTFI7P",
@@ -8819,7 +9848,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-uqnZK9uiCPQVIzA",
@@ -8854,7 +9887,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-e9WUyUTssRUjVMj",
@@ -8889,7 +9926,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-2BsbyYn2FnqL8OD",
@@ -8924,7 +9965,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hA1N1WtrVcM8J9o",
@@ -8959,7 +10004,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-LcrDJ5CwaDbvf3s",
@@ -8978,8 +10027,8 @@
       "lng": -0.1271091,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 42,
-      "guest_count": 33,
+      "spots_remaining": 41,
+      "guest_count": 34,
       "host_name": "Sam Jeremiah",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/b5/261ca1c1-09d2-4d0a-bcec-4b17024cccf5.png",
@@ -8994,7 +10043,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-T39XJIIvYjhPyHA",
@@ -9029,7 +10082,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-w3J3Y7FrXkww8BI",
@@ -9064,7 +10121,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Coal Drops Yard",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-c6VSq0w6dBJMGik",
@@ -9099,7 +10160,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EQ5kUVThUXZlQ8i",
@@ -9134,7 +10199,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-aTgyQOCQqC5GQGj",
@@ -9169,7 +10238,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Old Street",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-H4i8rCx60DXrIwC",
@@ -9188,7 +10261,7 @@
       "lng": -1.2506492999999999,
       "status": "open",
       "is_free": false,
-      "spots_remaining": 65,
+      "spots_remaining": 64,
       "guest_count": 0,
       "host_name": "Oxford University Biotech Society",
       "host_username": "oxfordbiotech",
@@ -9204,7 +10277,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-zz1tNHIKikESD6s",
@@ -9239,7 +10316,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-tBCHs9oa27h3auI",
@@ -9274,7 +10355,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Carnaby",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-juPsA6Of8sR7Rjd",
@@ -9309,7 +10394,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Wembley Park",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PfJrMET2jQRgrjb",
@@ -9344,7 +10433,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-uJeTjO56Ym39fg0",
@@ -9379,7 +10472,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-0Ij5kOcFp5DjlBb",
@@ -9414,7 +10511,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Cambridge",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-lPK9dOQa3C5Y9T4",
@@ -9449,7 +10550,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-IRXHyZl8AMYkV3d",
@@ -9484,7 +10589,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-bKfBRS2UvIB4ffX",
@@ -9519,7 +10628,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Edinburgh Old Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9akPEw2GUS9i1G1",
@@ -9554,7 +10667,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Q9LxsCzmF4KQ6Na",
@@ -9589,7 +10706,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oeTMkgUq8kuhfVq",
@@ -9624,7 +10745,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Davbi1ZsyBbcyvS",
@@ -9659,7 +10784,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-L3Ot3lrZYHUziWf",
@@ -9694,7 +10823,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9I2Q3FPo2ed8LNj",
@@ -9729,7 +10862,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-XPmCy1PEE3MHa5b",
@@ -9764,7 +10901,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EQsEd1ayGOwMlqH",
@@ -9799,7 +10940,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-q4p2mo14IFyjWsu",
@@ -9834,7 +10979,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-OoAD7tku850Y3Nf",
@@ -9869,7 +11018,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Hyde Park",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sUnX8xS8uZcYlOV",
@@ -9904,7 +11057,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Savoy",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DeTWVk15R4yxV2w",
@@ -9939,7 +11096,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vhcDLqxxaxXR4iJ",
@@ -9974,7 +11135,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sDXFGydF9y2aj4M",
@@ -10009,7 +11174,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sfzhzRh8yVAylc6",
@@ -10044,7 +11213,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4Fq0uFIrwP7OAX4",
@@ -10079,7 +11252,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jMaOcBf2Szgq1fi",
@@ -10114,7 +11291,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-RwFGX8KhcQZ9iOy",
@@ -10149,7 +11330,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hBPlbSgBTZOi3bX",
@@ -10184,7 +11369,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "St. James's",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-uURFSzS5k6HOQq4",
@@ -10204,7 +11393,7 @@
       "status": "approval_required",
       "is_free": false,
       "spots_remaining": null,
-      "guest_count": 8,
+      "guest_count": 9,
       "host_name": "Atomicwork Team",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/4q/96d0bbe1-d571-4754-80aa-a6ff3290ccb8.png",
@@ -10219,7 +11408,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Excel London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DeWimni41Z07D3P",
@@ -10254,7 +11447,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-wGwbspVz75YtyEg",
@@ -10284,7 +11481,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4mmjSXNZmwGJipA",
@@ -10319,7 +11520,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "London School of Economics and Political Science",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oML62XRgRdHNxJ9",
@@ -10354,7 +11559,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Farringdon",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ZSc7I42d4HPYGPQ",
@@ -10389,7 +11598,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "King's College London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-64RaMyNZN64Sl83",
@@ -10424,7 +11637,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "King's College London Waterloo Campus",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pantcJG1CZeuY0v",
@@ -10459,7 +11676,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-TrpUvqMLnGguSSn",
@@ -10489,7 +11710,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-m0Dt9HQNHGvqVQu",
@@ -10519,7 +11744,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-CuZElo0PaC6YwSN",
@@ -10554,7 +11783,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Marylebone",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cbEW2FNDSFxEBdw",
@@ -10589,7 +11822,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JBy5HF8SGCu350F",
@@ -10624,7 +11861,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-n6qshWMOroKL9W0",
@@ -10659,7 +11900,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-3AMThQ4PNEuWIQ2",
@@ -10694,7 +11939,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oR9eoFbduPyvOdD",
@@ -10729,7 +11978,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-iwwXtd87YBltIYG",
@@ -10764,7 +12017,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "University of Strathclyde",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EVOsE5OSWgSv2vw",
@@ -10799,7 +12056,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-F2VG9qBpBsQoGyE",
@@ -10818,7 +12079,7 @@
       "lng": -0.1,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 45,
+      "spots_remaining": 44,
       "guest_count": 0,
       "host_name": "reese wong",
       "host_username": null,
@@ -10834,7 +12095,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-73cmdcqcHZGCSIP",
@@ -10869,7 +12134,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Y8y5eyD6bOHau30",
@@ -10904,7 +12173,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-X1KcGvGhmu9DxHT",
@@ -10939,7 +12212,43 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
+    },
+    {
+      "event_id": "evt-Zi1RSD35dsXxnrN",
+      "title": "London Demo Dinner : Hosted by Superteam UK",
+      "event_link": "https://lu.ma/LondonDemoDinner2026",
+      "cover_link": "https://images.lumacdn.com/event-covers/lr/8b6ef426-0314-4842-a44c-19537b32ada9.png",
+      "start_at": "2026-05-12T18:00:00.000Z",
+      "end_at": "2026-05-12T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "city": "London",
+      "country": "United Kingdom",
+      "mode": "in_person",
+      "status": "approval_required",
+      "guest_count": 0,
+      "host_name": "Superteam UK",
+      "area": "",
+      "address": "London, United Kingdom",
+      "lat": 51.5275,
+      "lng": -0.085,
+      "is_free": false,
+      "spots_remaining": null,
+      "host_avatar": "https://images.lumacdn.com/avatars/ef/b8dbaf8e-2876-457c-b337-daa8fefca34d",
+      "host_username": "SuperteamUK",
+      "calendar_name": "Superteam",
+      "scraped_for_city": "london",
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": [],
+      "summary": "",
+      "promoted": false
     },
     {
       "event_id": "evt-hyIBjIDchG4BpIJ",
@@ -10974,7 +12283,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Excel London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Oo21PH7CSsQI3HO",
@@ -11009,7 +12322,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dPggmEcw8150DZA",
@@ -11044,7 +12361,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ffOCBOTOFW8DRHz",
@@ -11063,7 +12384,7 @@
       "lng": -0.135,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 230,
+      "spots_remaining": 229,
       "guest_count": 0,
       "host_name": "Charlie Greenwood",
       "host_username": null,
@@ -11079,7 +12400,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Soho",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dzAtC2cCu5Dpq6H",
@@ -11114,7 +12439,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Marylebone",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vXC5WlbPiKcXX1c",
@@ -11149,7 +12478,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kFno9DqMAJktQVy",
@@ -11184,7 +12517,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-betwslDxnqC8yPS",
@@ -11219,7 +12556,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-v8Oho2UX8QovYI2",
@@ -11254,7 +12595,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-M3EImHACWt44toE",
@@ -11289,7 +12634,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-7sf8ZDB29xFul8K",
@@ -11324,7 +12673,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-l8fFdh6gInClaSK",
@@ -11359,7 +12712,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-GQUkdAH4wW4TTrW",
@@ -11394,7 +12751,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vtxA3nnDvO4pOs8",
@@ -11429,7 +12790,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-X5gZNikHTS8xIEG",
@@ -11448,7 +12813,7 @@
       "lng": -0.0825109,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 55,
+      "spots_remaining": 52,
       "guest_count": 0,
       "host_name": "Nature Tech Collective",
       "host_username": "ntc",
@@ -11464,7 +12829,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-7Ythb0yYmspB7n1",
@@ -11499,7 +12868,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-WfohR3VUsTKt6rc",
@@ -11534,7 +12907,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8qRWDfUWjr4bcsL",
@@ -11569,7 +12946,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Soho",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-wQ9aLeROrvvqTYk",
@@ -11604,7 +12985,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Central Cambridge",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5Y6h73vMBIY4dEW",
@@ -11639,7 +13024,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Leeds City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oRhS6IZUTqvHxmg",
@@ -11659,7 +13048,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 119,
+      "guest_count": 120,
       "host_name": "CityVentures",
       "host_username": "cityventures",
       "host_avatar": "https://images.lumacdn.com/avatars/ua/b309e3e2-95da-4f54-bf3f-95c98d1ee564.png",
@@ -11674,7 +13063,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-RqCxLpWgC2bxui2",
@@ -11709,7 +13102,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Dalston",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EtlHpdwFMa4ZfUy",
@@ -11744,7 +13141,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Upper Holloway",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-znMNQPuqOTRRBWn",
@@ -11779,7 +13180,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sTsMzMfOYDpLKyB",
@@ -11814,7 +13219,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vPd1Mekz5Lq8ssU",
@@ -11849,7 +13258,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-yatYdHUKyT2OTqg",
@@ -11884,7 +13297,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-l2CT8h7zFZnxMzJ",
@@ -11919,7 +13336,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Nd6IksowDthKFDZ",
@@ -11954,7 +13375,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4BpxEh88bhCiNv1",
@@ -11989,7 +13414,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-mtTidWQyXZIewfj",
@@ -12024,7 +13453,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-xyLKL98ykGL1kOM",
@@ -12059,7 +13492,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Weavers Business Park",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-gXZ37zzCO7Z0lVh",
@@ -12094,7 +13531,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Temple",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-tvm4EGWszOqS2Yk",
@@ -12129,7 +13570,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-3J6j3ISzO9mEhOQ",
@@ -12148,7 +13593,7 @@
       "lng": -0.105,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 6,
+      "spots_remaining": 4,
       "guest_count": 0,
       "host_name": "David Fogel",
       "host_username": null,
@@ -12164,7 +13609,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-QPRHAxEkS53Ja9V",
@@ -12199,7 +13648,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Barbican",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-NELKjpUlzfjNZ9A",
@@ -12219,7 +13672,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 51,
+      "guest_count": 52,
       "host_name": "Sophie Azam",
       "host_username": "Skills4Startups",
       "host_avatar": "https://images.lumacdn.com/avatars/jy/fcf73bdf-f297-4346-afaa-8d05b195ec7f.jpg",
@@ -12234,7 +13687,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-qAEqoZEhFkPpz5Z",
@@ -12269,7 +13726,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "St. James's",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-BP6ixC3MswHh9Yi",
@@ -12304,7 +13765,43 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Old City",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
+    },
+    {
+      "event_id": "evt-EzjN5rxTL3sSJkr",
+      "title": "From 1995 to Onchain: How Finance Gets Better",
+      "event_link": "https://lu.ma/zthbd3cm",
+      "cover_link": "https://images.lumacdn.com/uploads/rg/5e99f8d9-719a-4983-b75f-bd8682470177.png",
+      "start_at": "2026-05-14T07:30:00.000Z",
+      "end_at": "2026-05-14T09:30:00.000Z",
+      "timezone": "Europe/London",
+      "city": "London",
+      "country": "United Kingdom",
+      "mode": "in_person",
+      "status": "approval_required",
+      "guest_count": 0,
+      "host_name": "The Big Whale",
+      "area": "",
+      "address": "London, United Kingdom",
+      "lat": 51.515,
+      "lng": -0.1025,
+      "is_free": false,
+      "spots_remaining": 166,
+      "host_avatar": "https://images.lumacdn.com/avatars/0t/7684c23d-24d5-4826-8356-6de6f5ec0612",
+      "host_username": "thebigwhale",
+      "calendar_name": "Personal",
+      "scraped_for_city": "london",
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": [],
+      "summary": "",
+      "promoted": false
     },
     {
       "event_id": "evt-KzKcjcWGtciIeJ0",
@@ -12339,7 +13836,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fitzrovia",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jCvbEMxOdAyIvDF",
@@ -12358,7 +13859,7 @@
       "lng": -1.2500284,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 88,
+      "spots_remaining": 86,
       "guest_count": 0,
       "host_name": "Kaitlan Melone",
       "host_username": "kaitlanmelone",
@@ -12374,7 +13875,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HqQXsNy3W3INMu5",
@@ -12409,7 +13914,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-i2iJRwjyQytdKjW",
@@ -12444,7 +13953,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cRNV4SStu3kUyCh",
@@ -12479,7 +13992,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Edinburgh New Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-kIIEPTz9hKGwMLh",
@@ -12514,7 +14031,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Chapel Place",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vyiVnAvEZbmDEXh",
@@ -12549,7 +14070,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Lewisham",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-7XjD9k78FEKSFrO",
@@ -12584,7 +14109,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-eOGTWWb4dz7REVf",
@@ -12619,7 +14148,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-x9NwaLdyJNJtMHm",
@@ -12654,7 +14187,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-N2o6y9XpQwvO5wg",
@@ -12689,7 +14226,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ToKTLJb6TeHCB23",
@@ -12703,7 +14244,7 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "status": "open",
-      "guest_count": 8,
+      "guest_count": 16,
       "host_name": "Alex Zverev",
       "area": "",
       "address": "London, United Kingdom",
@@ -12719,7 +14260,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-zO87cFrHx5P2oXs",
@@ -12754,7 +14299,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-mrJGRzpAEeKrvvA",
@@ -12773,8 +14322,8 @@
       "lng": -0.15281,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 26,
-      "guest_count": 114,
+      "spots_remaining": 24,
+      "guest_count": 116,
       "host_name": "Henry Yates",
       "host_username": "hpy",
       "host_avatar": "https://images.lumacdn.com/avatars/hi/a9bded7a-3a7a-4bfb-bdd9-62f8c1352d71",
@@ -12789,7 +14338,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Marylebone",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-y97sITldxMeMr6g",
@@ -12819,7 +14372,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HgmZUeSErVjrz14",
@@ -12854,7 +14411,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-LvdHWWRoFyiQxIz",
@@ -12889,7 +14450,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-VGC82kJTOZ6Cgld",
@@ -12924,7 +14489,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-AVb0ZD83Ngstgub",
@@ -12959,7 +14528,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-I39OVKMcsoAJes1",
@@ -12994,7 +14567,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-OaFeTHlZ2iEczth",
@@ -13029,7 +14606,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vb9C0LqbJuXoz6v",
@@ -13064,7 +14645,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-j1FV31mJBh7FkrA",
@@ -13099,7 +14684,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4PU7mbHnbyqYAMC",
@@ -13134,7 +14723,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Carnaby",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-02xcwni7yAq5EWU",
@@ -13169,7 +14762,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4P0sMzN0kke4bct",
@@ -13204,7 +14801,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-MvDEvgfADzu8RXE",
@@ -13239,7 +14840,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Haqr7AWAhtqHMvS",
@@ -13274,7 +14879,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JCSUb3ZtAaUTn6M",
@@ -13293,7 +14902,7 @@
       "lng": -0.14,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 74,
+      "spots_remaining": 71,
       "guest_count": 0,
       "host_name": "The Human Network",
       "host_username": "CR3W",
@@ -13309,7 +14918,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-QKcQ3RE2FX8F0SU",
@@ -13344,7 +14957,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-TJa2UpmJKEqsv6c",
@@ -13379,7 +14996,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-uY0LyfIaHAzEIyg",
@@ -13414,7 +15035,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-TzgVqnGnzoR0NVR",
@@ -13449,7 +15074,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-R5zFEHGUkpPuofL",
@@ -13484,7 +15113,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Brighton",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-W750lXxti7ESNYf",
@@ -13503,7 +15136,7 @@
       "lng": -0.0913715,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 405,
+      "spots_remaining": 398,
       "guest_count": 0,
       "host_name": "London Venture Capital Network",
       "host_username": "lvcn",
@@ -13519,7 +15152,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hsfvgJF3jI8koHJ",
@@ -13554,7 +15191,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vLtoODXiLvcr3Am",
@@ -13589,7 +15230,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-p1HAOnnyA55xBTI",
@@ -13624,7 +15269,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Allia Future Business Centre Cambridge Campus",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-7AwsorAAeWm4Z9S",
@@ -13659,7 +15308,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-S0abO19w7FQMKXh",
@@ -13694,7 +15347,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fulham",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8xIBaEXo1ChGmQp",
@@ -13729,7 +15386,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-N4uwcOJwHmmTapJ",
@@ -13764,7 +15425,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-HeY00op8U6hQd8i",
@@ -13784,7 +15449,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 12,
+      "guest_count": 13,
       "host_name": "Nature Tech Collective",
       "host_username": "ntc",
       "host_avatar": "https://images.lumacdn.com/avatars/el/999eba7f-3139-41dc-aba5-42204c8dd54d",
@@ -13799,7 +15464,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-D6cSVj8MSsPyqU4",
@@ -13834,7 +15503,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5pDrN6Oz48bfZUW",
@@ -13869,7 +15542,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JmuqNtP0wcD0qAm",
@@ -13889,7 +15566,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 17,
+      "guest_count": 18,
       "host_name": "john@coefficient.ai",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_22.png",
@@ -13904,7 +15581,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-7V8XYAqx7lURG6G",
@@ -13939,7 +15620,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-MA40CLC5uHucB9x",
@@ -13974,7 +15659,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EiuRfnDlDCXY3J6",
@@ -14009,7 +15698,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fitzrovia",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-0H0NgAarH4DNbIA",
@@ -14044,7 +15737,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Edinburgh Old Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-WlJRoGTFUiFPDID",
@@ -14079,7 +15776,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "St Katharine's & Wapping",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-3XTBEddGyyNwFQ4",
@@ -14114,7 +15815,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jVk1XGyiTaop0GP",
@@ -14149,7 +15854,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8Ea744BRGSonpBT",
@@ -14184,7 +15893,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-0wjLkslroEMGJTw",
@@ -14219,7 +15932,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Excel London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-tUx0a5FFkpj6Chq",
@@ -14254,7 +15971,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Old City",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-3Tvg4klka2w1lf4",
@@ -14289,7 +16010,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-D0PDHnLTKDSXMf7",
@@ -14324,7 +16049,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fitzrovia",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-uEoXlRIKL7rfWJz",
@@ -14359,7 +16088,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf Estate",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-SSbno1IRuLTFXci",
@@ -14394,7 +16127,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-JDLEPu01HheU3dI",
@@ -14429,7 +16166,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-atJQcfL4WyTPwbU",
@@ -14464,7 +16205,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Finsbury Park",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-IeuV9JKQkl42chU",
@@ -14499,7 +16244,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Finsbury",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cg2aQkbMTv6SjGk",
@@ -14534,7 +16283,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Spinningfields",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8MiuyRDWIF0ClDG",
@@ -14569,7 +16322,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Regent's Place",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-XxprVMtMcZ32UNL",
@@ -14604,7 +16361,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-TA58OegdVxGrQop",
@@ -14639,7 +16400,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Kjw706wMHlpkfHw",
@@ -14674,7 +16439,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf Estate",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-58ONfiPdnLimwDh",
@@ -14709,7 +16478,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Spitalfields",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sHggalU5JAHn9Vr",
@@ -14744,7 +16517,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "London School of Economics and Political Science",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-V3t7dFz60LDysZK",
@@ -14779,7 +16556,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ibHcvJQD7DvHzLP",
@@ -14814,7 +16595,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-e72SClJkB9Y500T",
@@ -14849,7 +16634,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Brighton",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oDK7sMjW4bCLsW0",
@@ -14884,7 +16673,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-e6jstzqmI0dCFSx",
@@ -14919,7 +16712,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-BfMgtmmP7BAvSy3",
@@ -14954,7 +16751,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-xGAFDBUKcSqvt0E",
@@ -14989,7 +16790,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-WHSCrz2VtIL8z17",
@@ -15024,7 +16829,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf Estate",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-PTeODsqWPKWEXtG",
@@ -15059,7 +16868,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-54M8WdIHRklfAEy",
@@ -15094,7 +16907,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Nine Elms",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-895hGycRXSGKCy4",
@@ -15129,7 +16946,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-op2XKMJNPiUDBaN",
@@ -15164,7 +16985,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-UTDXl5GK1dGHk2s",
@@ -15199,7 +17024,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Soho",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dzLCsLvxISlrviy",
@@ -15218,7 +17047,7 @@
       "lng": -0.075,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 24,
+      "spots_remaining": 23,
       "guest_count": 0,
       "host_name": "Toby Mather",
       "host_username": "tobymather",
@@ -15234,7 +17063,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ZYR0JiieMc5w78e",
@@ -15253,8 +17086,8 @@
       "lng": -1.9063332000000002,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 19,
-      "guest_count": 21,
+      "spots_remaining": 18,
+      "guest_count": 22,
       "host_name": "Nicholas Chang",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_7.png",
@@ -15269,7 +17102,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Jewellery Quarter",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Ma5X4fuY7ubGaRz",
@@ -15288,7 +17125,7 @@
       "lng": -0.0809404,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 46,
+      "spots_remaining": 45,
       "guest_count": 0,
       "host_name": "Dr Craig Jarvis",
       "host_username": null,
@@ -15304,7 +17141,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-2aRM7vsvlZibKHW",
@@ -15339,7 +17180,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City of London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-NJ6vuzEYl9k7tvX",
@@ -15374,7 +17219,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8RtLoticVAjWjYh",
@@ -15409,7 +17258,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-itqaHMKxcFGzQQk",
@@ -15444,7 +17297,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-op7HfmnEOPUVxNX",
@@ -15479,7 +17336,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Chinatown",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-htRtuF8jpaLgSnp",
@@ -15514,7 +17375,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-SSS7bov7wtzu8lp",
@@ -15549,7 +17414,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-2F64ypluHlZCD3L",
@@ -15584,7 +17453,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vbHEZMixwDfKRV3",
@@ -15619,7 +17492,50 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Savoy",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
+    },
+    {
+      "event_id": "evt-FBsigMEwdL32saL",
+      "title": "E-Commerce over Breakfast #7 (London)",
+      "slug": "4eazgzw8",
+      "event_link": "https://lu.ma/4eazgzw8",
+      "cover_url": "https://images.lumacdn.com/event-covers/am/da1ede51-b210-418b-9dec-01f45883a7d8.jpg",
+      "start_at": "2026-05-21T08:00:00.000Z",
+      "end_at": "2026-05-21T09:30:00.000Z",
+      "timezone": "Europe/London",
+      "location_type": "offline",
+      "address": "London, United Kingdom",
+      "city": "London",
+      "scraped_for_city": "london",
+      "lat": 51.5125,
+      "lng": -0.0975,
+      "status": "approval_required",
+      "is_free": false,
+      "spots_remaining": null,
+      "guest_count": 3,
+      "host_name": "Matteo",
+      "host_username": "matteosavio",
+      "host_avatar": "https://images.lumacdn.com/avatars/op/e8982b4f-6ccf-4e46-b1b1-63b4cc0fdaa0",
+      "calendar_name": "CommerceCircle",
+      "calendar_slug": "commercecircle",
+      "discovered_via": "tech",
+      "audience": "general",
+      "sector": "general tech",
+      "summary": "",
+      "promoted": false,
+      "cover_link": "https://images.lumacdn.com/event-covers/am/da1ede51-b210-418b-9dec-01f45883a7d8.jpg",
+      "country": "United Kingdom",
+      "mode": "in_person",
+      "area": "",
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-mM45EqFoI1XjSKU",
@@ -15654,7 +17570,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-uPiLF26C39DvP99",
@@ -15689,7 +17609,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-a4GqhwS5WdsqOZX",
@@ -15724,7 +17648,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Z9sr7Hnw9uUVb4U",
@@ -15759,7 +17687,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pLovYBfi51Nf9yH",
@@ -15794,7 +17726,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Redcliffe",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-4yCoa9egAjcco3P",
@@ -15829,7 +17765,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Old City",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-sjYAO9SvI5hSTux",
@@ -15864,7 +17804,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-5Q0FXNMp0JY91Y9",
@@ -15894,7 +17838,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-V948HHnuS1rf2cG",
@@ -15913,8 +17861,8 @@
       "lng": -0.125,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 23,
-      "guest_count": 352,
+      "spots_remaining": 22,
+      "guest_count": 353,
       "host_name": "Jody Saunders",
       "host_username": "jodysaunders",
       "host_avatar": "https://images.lumacdn.com/avatars/89/94cc9761-f342-4f35-a8f0-5aab936cb15e.jpg",
@@ -15929,7 +17877,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-zpMeH6TFKVuG5fA",
@@ -15964,7 +17916,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-M0P9kSiW1eXR1rQ",
@@ -15999,7 +17955,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Lanes",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-qO3jsKo5vMI6p14",
@@ -16034,7 +17994,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-lpPzVYZBCyeTPKU",
@@ -16069,7 +18033,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-oAL2fIKXH9nmGNy",
@@ -16104,7 +18072,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-P5ldnXyhniBaUEO",
@@ -16139,7 +18111,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-E6SfOZd1y2OkTA2",
@@ -16174,7 +18150,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dmYEuAQ6n8ptdkV",
@@ -16209,7 +18189,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Paddington",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-A2julEx9C7mYvyM",
@@ -16228,7 +18212,7 @@
       "lng": -0.0830852,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 72,
+      "spots_remaining": 71,
       "guest_count": 0,
       "host_name": "S\u00f6kerData",
       "host_username": null,
@@ -16244,7 +18228,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-FxNDyUGpNpazRow",
@@ -16279,7 +18267,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-IzckcgdKkyDAe1c",
@@ -16314,7 +18306,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fitzrovia",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-qjxZBT4VBpgah0H",
@@ -16349,7 +18345,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Edinburgh Old Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-VEy6ax8rOfA8JYb",
@@ -16384,7 +18384,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Edinburgh Old Town",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-A15LV4recY4HiOj",
@@ -16403,8 +18407,8 @@
       "lng": -0.0201118,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 25,
-      "guest_count": 100,
+      "spots_remaining": 24,
+      "guest_count": 101,
       "host_name": "Kir Zharov",
       "host_username": null,
       "host_avatar": "https://images.lumacdn.com/avatars/ka/2d9cc125-f309-4f56-94de-27608007e1b1.jpg",
@@ -16419,7 +18423,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DR0k2ZnnQbSOVFL",
@@ -16449,7 +18457,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-8RHoStbmgaA6Cin",
@@ -16484,7 +18496,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Nine Elms",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-WAiCM0bfpeiWcTO",
@@ -16519,7 +18535,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Science Museum",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-s7CsXBo4Oft8C4H",
@@ -16538,7 +18558,7 @@
       "lng": -0.21476589999999998,
       "status": "sold_out",
       "is_free": false,
-      "spots_remaining": 1,
+      "spots_remaining": 0,
       "guest_count": 0,
       "host_name": "RIYO Consultancy",
       "host_username": "riyoconsultancy",
@@ -16554,7 +18574,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-GEiw64TkETE8PaR",
@@ -16585,11 +18609,15 @@
       "sector": "general tech",
       "summary": "",
       "promoted": false,
-      "cover_link": "https://images.lumacdn.com/event-covers/js/e7042b1a-bc95-4d8a-8973-de052f6e96ed.jpg",
+      "cover_link": "https://images.lumacdn.com/uploads/8o/0f956119-a036-4e18-b450-14c0c0dab2eb.jpg",
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-t89bZHRR7FB19lN",
@@ -16624,7 +18652,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Westminster",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-FvBjoUrenuy5Fmy",
@@ -16659,7 +18691,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Leather Warehouse London",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pB0cYG16wj7Yu0H",
@@ -16678,7 +18714,7 @@
       "lng": -1.2627675,
       "status": "approval_required",
       "is_free": false,
-      "spots_remaining": 64,
+      "spots_remaining": 63,
       "guest_count": 0,
       "host_name": "Ox Tech Week",
       "host_username": "oxtechweek",
@@ -16694,7 +18730,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9gvqZgyM2FNKKnf",
@@ -16724,7 +18764,11 @@
       "audience": "general",
       "sector": "general tech",
       "summary": "",
-      "promoted": false
+      "promoted": false,
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-USbUeKvl4eeLGFr",
@@ -16759,7 +18803,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Regent's Place",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-KN86EDp7zIy89WB",
@@ -16794,7 +18842,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-bGgm6RliwCbHPmi",
@@ -16829,7 +18881,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-x5sWIwmZcIocjJM",
@@ -16864,7 +18920,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Radcliffe Observatory Quarter",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-bwCfseBFr4gtu3B",
@@ -16899,7 +18959,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-fhoLlkzvdHDD0HK",
@@ -16934,7 +18998,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Oxford Brookes University",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-tDzoVVUcq0jpKFR",
@@ -16953,8 +19021,8 @@
       "lng": -1.2542703,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 49,
-      "guest_count": 51,
+      "spots_remaining": 48,
+      "guest_count": 52,
       "host_name": "Megan Cully",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_20.png",
@@ -16969,7 +19037,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-aGczL4QNgqZeO8r",
@@ -17004,7 +19076,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Radcliffe Observatory Quarter",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-rFNjTQdEoybHkwz",
@@ -17023,8 +19099,8 @@
       "lng": -1.2627675,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 332,
-      "guest_count": 28,
+      "spots_remaining": 331,
+      "guest_count": 29,
       "host_name": "Sebastian Johnson",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_22.png",
@@ -17039,7 +19115,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Radcliffe Observatory Quarter",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vp2z5nX43Ifwf8L",
@@ -17074,7 +19154,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-IG15G34vRdjgVZN",
@@ -17109,7 +19193,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-aj00R1x9vK8Ejfa",
@@ -17144,7 +19232,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ybSWZJaBQMiDGcR",
@@ -17179,7 +19271,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-TvvxWPtYfLPnfWY",
@@ -17214,7 +19310,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-cbYqVMZl5MU1eqR",
@@ -17249,7 +19349,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Jbwl7QTSnz0QqcC",
@@ -17284,7 +19388,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-dNEblSmDIR2qqGp",
@@ -17319,7 +19427,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-QC2ttoMZdLc6ViC",
@@ -17354,7 +19466,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-NvPW1YnTD3YAIe6",
@@ -17389,7 +19505,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-V2m20xocjaErbLA",
@@ -17424,7 +19544,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-OYGE2fPwPLsGjNv",
@@ -17459,7 +19583,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-O0bXBEsaHvwx8G8",
@@ -17494,7 +19622,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-m4c1JQs7VuGwqJx",
@@ -17529,7 +19661,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-VRNX2QomIVGATk4",
@@ -17564,7 +19700,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-mtjRmSQA5J0DCTS",
@@ -17599,7 +19739,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Sidgwick Site",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-U0v3ndH9lu8f3gk",
@@ -17634,7 +19778,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf Estate",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-jGwzxW99Sxp42V4",
@@ -17669,7 +19817,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Radcliffe Observatory Quarter",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-vbqF4pHqOS6FHVD",
@@ -17704,7 +19856,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-6rCcFFIDfWdNSxC",
@@ -17739,7 +19895,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-9Z1QcfBayAVbnZb",
@@ -17774,7 +19934,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Chjl0Y3KXy7KYCo",
@@ -17809,7 +19973,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-FElUGf28Utn5BgL",
@@ -17844,7 +20012,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-NHmBI7FPPfrQu5N",
@@ -17879,7 +20051,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-xIx30n6CBvCp9D9",
@@ -17914,7 +20090,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ALcdCvblFQddZQ6",
@@ -17949,7 +20129,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Leeds City Centre",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-hqwfNFDIPkBYqSv",
@@ -17984,7 +20168,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Al1eAFlKKsJZbGO",
@@ -18019,7 +20207,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Z5SanZ65g6bDtUf",
@@ -18054,7 +20246,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Canary Wharf",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-X7aFSVs4gmJpKVT",
@@ -18089,7 +20285,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-xtIKuCxFx0S7eE9",
@@ -18124,7 +20324,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-yRNPAr3KyBxEJjO",
@@ -18159,7 +20363,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Park Town",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-ZnYvmLNF4A3kjG1",
@@ -18194,7 +20402,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Odt94RddVKydOZu",
@@ -18213,8 +20425,8 @@
       "lng": -0.1315151,
       "status": "open",
       "is_free": true,
-      "spots_remaining": 68,
-      "guest_count": 12,
+      "spots_remaining": 66,
+      "guest_count": 14,
       "host_name": "Constructech London",
       "host_username": "constructech",
       "host_avatar": "https://images.lumacdn.com/avatars/82/648ce616-4121-4fef-bfc1-49c82f8f77c6",
@@ -18229,7 +20441,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-Okm31z1pYoxobq3",
@@ -18264,7 +20480,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-n7dOqXrKEOheJBG",
@@ -18299,7 +20519,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-y4PMi5Oj67anFft",
@@ -18334,7 +20558,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "",
-      "scraped_via_slug": "ai"
+      "scraped_via_slug": "ai",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-DRGJuHOrDVBFX66",
@@ -18369,7 +20597,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-EFh6iSFmfLsRBv0",
@@ -18404,7 +20636,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "City Centre",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-K0wjWd8FNVFy7DJ",
@@ -18439,7 +20675,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Fitzrovia",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-pYpCytW5uGPCvLL",
@@ -18459,7 +20699,7 @@
       "status": "open",
       "is_free": true,
       "spots_remaining": null,
-      "guest_count": 9,
+      "guest_count": 10,
       "host_name": "Rebecca - Keen People / OxCyber",
       "host_username": null,
       "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_9.png",
@@ -18474,7 +20714,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "The Oxford Science Park",
-      "scraped_via_slug": "tech"
+      "scraped_via_slug": "tech",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     },
     {
       "event_id": "evt-6u6wH2aLr8i5IZK",
@@ -18509,7 +20753,11 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "area": "Harbourside",
-      "scraped_via_slug": "crypto"
+      "scraped_via_slug": "crypto",
+      "audiences": [
+        "founders"
+      ],
+      "industries": []
     }
   ]
 }
