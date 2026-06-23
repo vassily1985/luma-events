@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 537,
+  "count": 536,
   "events": [
     {
       "event_id": "evt-JM0dMi8iAPAgWLF",
@@ -10419,44 +10419,6 @@
       "summary": "A documentary screening followed by a Q&A session with Cameron Berg, hosted at Newspeak House, focusing on personal narratives.",
       "_classified": true,
       "_classified_at": "2026-06-14T07:01:17.262157+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-ppoQ4z4p8BjMbHY",
-      "title": "AI Foundations for Non-Techies",
-      "event_link": "https://lu.ma/a7nunna3",
-      "cover_link": "https://images.lumacdn.com/uploads/tm/52f309fc-b97d-4252-b42d-c9391213edf7.png",
-      "start_at": "2026-06-29T08:00:00.000Z",
-      "end_at": "2026-06-29T10:30:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 0,
-      "host_name": "Emmie and Team FFR",
-      "area": "",
-      "address": "London, United Kingdom",
-      "lat": 51.511062983660715,
-      "lng": -0.14798812630502367,
-      "is_free": false,
-      "spots_remaining": 59,
-      "host_avatar": "https://images.lumacdn.com/avatars/4f/15cdc257-0159-4938-abd6-8e77b036a399.png",
-      "host_username": "FFRevents",
-      "calendar_name": "Female Founders Rise Events",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "description": "",
-      "audiences": [
-        "female founders",
-        "founders"
-      ],
-      "industries": [
-        "ai"
-      ],
-      "summary": "Female Founders Rise presents an event on constructing AI agents in real life, aimed at empowering women in tech.",
-      "_classified": true,
-      "_classified_at": "2026-05-24T07:01:53.314511+00:00",
       "promoted": false
     },
     {
