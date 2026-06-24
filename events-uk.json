@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 536,
+  "count": 535,
   "events": [
     {
       "event_id": "evt-JM0dMi8iAPAgWLF",
@@ -8683,51 +8683,6 @@
       "_classified": true,
       "_classified_at": "2026-06-21T14:51:29.681517+00:00",
       "promoted": false
-    },
-    {
-      "event_id": "evt-K0wjWd8FNVFy7DJ",
-      "title": "TBA - save the date",
-      "slug": "nuj3b3az",
-      "event_link": "https://lu.ma/nuj3b3az",
-      "cover_url": "https://images.lumacdn.com/gallery-images/r1/2de72242-6d5a-4740-87be-c51b7a941c92",
-      "start_at": "2026-06-25T18:00:00.000Z",
-      "end_at": "2026-06-25T19:00:00.000Z",
-      "timezone": "Europe/London",
-      "location_type": "offline",
-      "address": "University of Westminster - Cavendish Campus, Fitzrovia, London, United Kingdom",
-      "city": "London",
-      "scraped_for_city": "london",
-      "lat": 51.5209347,
-      "lng": -0.1400932,
-      "status": "open",
-      "is_free": true,
-      "spots_remaining": 53,
-      "guest_count": 27,
-      "host_name": "Paul Agapow",
-      "host_username": "agapow",
-      "host_avatar": "https://images.lumacdn.com/avatars/fq/a14fc4e0-66e8-47c8-983e-4bdd30eefce3.jpg",
-      "calendar_name": "Bioinformatics London",
-      "calendar_slug": "bioinformatics-london",
-      "discovered_via": "tech",
-      "audience": "general",
-      "sector": "general tech",
-      "summary": "Bioinformatics London is organizing an event with details to be announced, save the date.",
-      "promoted": false,
-      "cover_link": "https://images.lumacdn.com/gallery-images/r1/2de72242-6d5a-4740-87be-c51b7a941c92",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "area": "Fitzrovia",
-      "scraped_via_slug": "tech",
-      "audiences": [
-        "founders",
-        "students"
-      ],
-      "industries": [
-        "healthtech"
-      ],
-      "description": "",
-      "_classified": true,
-      "_classified_at": "2026-04-28T23:27:15.432951+00:00"
     },
     {
       "event_id": "evt-3vF030nQEod6fQx",
