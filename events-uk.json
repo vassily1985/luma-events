@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 531,
+  "count": 530,
   "events": [
     {
       "event_id": "evt-JM0dMi8iAPAgWLF",
@@ -18289,44 +18289,6 @@
       "summary": "A meetup organized by the Godot Engine community for developers interested in game development.",
       "_classified": true,
       "_classified_at": "2026-06-21T14:51:29.681517+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-XzYTLD0SwEbLg8N",
-      "title": "Claude & Copilot for Management and Delivery",
-      "event_link": "https://lu.ma/j7sm91ry",
-      "cover_link": "https://images.lumacdn.com/uploads/q9/928a7eec-947d-421b-8b3a-cde65d9762db.png",
-      "start_at": "2026-07-14T13:00:00.000Z",
-      "end_at": "2026-07-14T16:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 0,
-      "host_name": "Applied Blockchain",
-      "area": "Canary Wharf Estate",
-      "address": "Level39, Canary Wharf Estate, London, United Kingdom",
-      "lat": 51.504948899999995,
-      "lng": -0.0195006,
-      "is_free": false,
-      "spots_remaining": 17,
-      "host_avatar": "https://images.lumacdn.com/avatars/ac/6a1fa0bd-2553-42c9-ba39-3282601d81c6",
-      "host_username": null,
-      "calendar_name": "Personal",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "description": "",
-      "audiences": [
-        "founders",
-        "operators"
-      ],
-      "industries": [
-        "crypto"
-      ],
-      "summary": "A discussion on leveraging Claude and Copilot for enhancing management and delivery processes in the blockchain industry.",
-      "_classified": true,
-      "_classified_at": "2026-06-04T07:09:46.087946+00:00",
       "promoted": false
     },
     {
