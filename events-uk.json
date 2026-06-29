@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 394,
+  "count": 392,
   "events": [
     {
       "event_id": "evt-h85gZUqVjZMzutw",
@@ -460,45 +460,6 @@
       "summary": "A workshop on fundraising strategies from US and UK investors, presented by SeedLegals, aimed at helping startups raise capital more effectively.",
       "_classified": true,
       "_classified_at": "2026-06-09T07:03:22.023518+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-g8DFnKdckhvCvt7",
-      "title": "Brdge SearchX | Tidy Trade \u2013 The New Search Playbook: E-commerce Edition",
-      "event_link": "https://lu.ma/1ybftvky",
-      "cover_link": "https://images.lumacdn.com/uploads/e6/df1fb71e-d340-4ab1-9054-26ff72058cb0.png",
-      "start_at": "2026-06-29T16:30:00.000Z",
-      "end_at": "2026-06-29T18:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 0,
-      "host_name": "Logan Pillay",
-      "area": "",
-      "address": "South Place Hotel | Luxury Stay in the Heart of London, London, United Kingdom",
-      "lat": 51.519078,
-      "lng": -0.0865857,
-      "is_free": false,
-      "spots_remaining": 12,
-      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_46.png",
-      "host_username": "brdge",
-      "calendar_name": "Brdge",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "description": "",
-      "audiences": [
-        "founders",
-        "operators",
-        "students"
-      ],
-      "industries": [
-        "commerce"
-      ],
-      "summary": "Brdge SearchX presents Tidy Trade, focusing on the new strategies and trends in e-commerce.",
-      "_classified": true,
-      "_classified_at": "2026-06-27T07:04:38.395224+00:00",
       "promoted": false
     },
     {
@@ -6216,48 +6177,6 @@
       "summary": "SovereignAI North-West Launch is an event hosted by David Levine, aimed at introducing and discussing the advancements in AI technology within the North-West region.",
       "_classified": true,
       "_classified_at": "2026-05-30T07:03:54.607150+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-6KRZfSBBm52veS1",
-      "title": "Barclays x Legora - Symposium on AI in Legal Services",
-      "event_link": "https://lu.ma/il98nsya",
-      "cover_link": "https://images.lumacdn.com/uploads/52/11aa9a51-19ef-4c60-acdf-414c1c8c530e.png",
-      "start_at": "2026-07-07T14:30:00.000Z",
-      "end_at": "2026-07-07T17:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 0,
-      "host_name": "Amandine Deshayes",
-      "area": "",
-      "address": "Pan Pacific London, London, United Kingdom",
-      "lat": 51.516428999999995,
-      "lng": -0.0803845,
-      "is_free": true,
-      "spots_remaining": 66,
-      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_18.png",
-      "host_username": "legora",
-      "calendar_name": "Legora",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "description": "",
-      "audiences": [
-        "founders",
-        "investors",
-        "GPs",
-        "LPs",
-        "operators"
-      ],
-      "industries": [
-        "ai",
-        "security"
-      ],
-      "summary": "A symposium exploring the role of artificial intelligence in legal services, hosted by Barclays and Legora.",
-      "_classified": true,
-      "_classified_at": "2026-06-21T14:51:29.681517+00:00",
       "promoted": false
     },
     {
