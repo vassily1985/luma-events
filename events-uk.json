@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 389,
+  "count": 388,
   "events": [
     {
       "event_id": "evt-h85gZUqVjZMzutw",
@@ -920,42 +920,6 @@
       "summary": "A workshop on automating work processes using Claude, aimed at enhancing productivity and efficiency. It's designed for those interested in leveraging AI for task automation.",
       "_classified": true,
       "_classified_at": "2026-06-21T14:51:29.681517+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-WfPte4QXZcyqM1V",
-      "title": "Peer Power Lunch Hour",
-      "event_link": "https://lu.ma/5hrjo352",
-      "cover_link": "https://images.lumacdn.com/uploads/y9/0fd642aa-f90a-408b-bf9c-1587a47cd94b.png",
-      "start_at": "2026-06-30T11:00:00.000Z",
-      "end_at": "2026-06-30T12:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 0,
-      "host_name": "LSE Generate",
-      "area": "",
-      "address": "LSE Generate, London, United Kingdom",
-      "lat": 51.5143809,
-      "lng": -0.11672099999999999,
-      "is_free": true,
-      "spots_remaining": null,
-      "host_avatar": "https://images.lumacdn.com/avatars/30/973d1b98-a80f-4ff9-9ca1-6bf9cb5b2c59.png",
-      "host_username": "lsegenerate",
-      "calendar_name": "LSE Generate Events",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "founders",
-        "students"
-      ],
-      "industries": [],
-      "summary": "Peer Power Lunch Hour is an event hosted by LSE Generate, designed to foster networking and collaboration among entrepreneurs and professionals.",
-      "_classified": true,
-      "_classified_at": "2026-06-09T07:03:22.023518+00:00",
       "promoted": false
     },
     {
