@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 388,
+  "count": 387,
   "events": [
     {
       "event_id": "evt-h85gZUqVjZMzutw",
@@ -13869,43 +13869,6 @@
       "summary": "The Game Hive is a Manchester-based event focused on gaming startups and enthusiasts, hosted by Emily Brown.",
       "_classified": true,
       "_classified_at": "2026-06-27T07:04:38.395224+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-GiaXS8kO2FT2X5q",
-      "title": "A\\ x AWS UK Summer Party",
-      "event_link": "https://lu.ma/2crgc6bb",
-      "cover_link": "https://images.lumacdn.com/gallery-images/8y/d9f86a31-556f-454f-923f-16fecc8e742b",
-      "start_at": "2026-07-23T11:00:00.000Z",
-      "end_at": "2026-07-23T15:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 102,
-      "host_name": "Alex King",
-      "area": "",
-      "address": "The Conduit, London, United Kingdom",
-      "lat": 51.5131999,
-      "lng": -0.125107,
-      "is_free": true,
-      "spots_remaining": 18,
-      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_7.png",
-      "host_username": null,
-      "calendar_name": "Personal",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "founders",
-        "operators",
-        "investors"
-      ],
-      "industries": [],
-      "summary": "Alex King hosts the A\\ x AWS UK Summer Party, a social gathering for the tech community to celebrate the summer season.",
-      "_classified": true,
-      "_classified_at": "2026-06-21T14:51:29.681517+00:00",
       "promoted": false
     },
     {
