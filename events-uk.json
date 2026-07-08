@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 413,
+  "count": 412,
   "events": [
     {
       "event_id": "evt-M7wpBZBreahtUOY",
@@ -1175,45 +1175,6 @@
       "summary": "Amelia Miller hosts an event discussing the importance of AI talent strategy for startups, highlighting what is often overlooked in the process.",
       "_classified": true,
       "_classified_at": "2026-06-09T07:03:22.023518+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-AmMdXilLC9ePR9p",
-      "title": "Powering London: Data, AI & Climate",
-      "event_link": "https://lu.ma/dhfkt63u",
-      "cover_link": "https://images.lumacdn.com/gallery-images/vd/e2da9014-0ab2-40ad-84ca-594823ed8995.png",
-      "start_at": "2026-07-07T17:30:00.000Z",
-      "end_at": "2026-07-07T19:30:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "sold_out",
-      "guest_count": 35,
-      "host_name": "London Data Week",
-      "area": "",
-      "address": "St Pancras & Somers Town Living Centre, London, United Kingdom",
-      "lat": 51.5310901,
-      "lng": -0.12978499999999998,
-      "is_free": false,
-      "spots_remaining": 0,
-      "host_avatar": "https://images.lumacdn.com/uploads/qc/3d18856f-221d-45e0-bd30-745a4c73205a.png",
-      "host_username": null,
-      "calendar_name": "Personal",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "description": "",
-      "audiences": [
-        "founders",
-        "operators"
-      ],
-      "industries": [
-        "ai",
-        "climate"
-      ],
-      "summary": "A London Data Week event exploring the intersection of data, AI, and climate change, aimed at professionals in these fields.",
-      "_classified": true,
-      "_classified_at": "2026-06-13T07:06:05.688797+00:00",
       "promoted": false
     },
     {
