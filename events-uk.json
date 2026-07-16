@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 318,
+  "count": 317,
   "events": [
     {
       "event_id": "evt-N9lei6lqqdFvLyh",
@@ -2132,41 +2132,6 @@
       "summary": "Pipeline and Pints Series Episode 3 discusses intentionally creating and closing ICP deals, hosted by Mick Gosset.",
       "_classified": true,
       "_classified_at": "2026-07-04T07:05:28.618128+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-8RRgaJ9hNCpf0aR",
-      "title": "Clay Devis in North: Let's get it started!",
-      "event_link": "https://lu.ma/hlpvkgp6",
-      "cover_link": "https://images.lumacdn.com/uploads/m3/07813d8c-1bf6-41fc-a196-61925e157a2e.jpg",
-      "start_at": "2026-07-16T16:30:00.000Z",
-      "end_at": "2026-07-16T19:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "Manchester",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 3,
-      "host_name": "Jessica Rose",
-      "area": "Deansgate",
-      "address": "GM Digital Security Hub (DiSH), Deansgate, Manchester, United Kingdom",
-      "lat": 53.47919410000001,
-      "lng": -2.2461705999999997,
-      "is_free": false,
-      "spots_remaining": 12,
-      "host_avatar": "https://images.lumacdn.com/avatars/45/71c4161f-b4ca-4ba3-93c9-3fd7c469ab89.jpg",
-      "host_username": "gtmjessica",
-      "calendar_name": "Clay Clubs",
-      "scraped_for_city": "manchester",
-      "scraped_via_slug": "ai",
-      "description": "",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "Clay Devis in North is a startup event hosted by Jessica Rose, aimed at kickstarting ventures in the northern region.",
-      "_classified": true,
-      "_classified_at": "2026-06-27T07:04:38.395224+00:00",
       "promoted": false
     },
     {
