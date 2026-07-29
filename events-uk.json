@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T07:01:51.233316+00:00",
+  "generated_at": "2026-07-29T07:03:57.004388+00:00",
   "region": "uk",
   "cities": [
     "london",
@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 221,
+  "count": 222,
   "events": [
     {
       "event_id": "evt-CFy0RHU9084vGRZ",
@@ -538,15 +538,15 @@
       "city": "London",
       "country": "United Kingdom",
       "mode": "in_person",
-      "status": "sold_out",
-      "guest_count": 120,
+      "status": "near_capacity",
+      "guest_count": 119,
       "host_name": "Netlify",
       "area": "",
       "address": "Ramen Space, London, United Kingdom",
       "lat": 51.5451975,
       "lng": -0.0748505,
       "is_free": true,
-      "spots_remaining": 0,
+      "spots_remaining": 1,
       "host_avatar": "https://images.lumacdn.com/avatars/2x/355b2e45-bdd6-4e7b-87bc-1f942d1755f2.png",
       "host_username": "netlifyHQ",
       "calendar_name": "Netlify Community Events",
@@ -616,7 +616,7 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "status": "open",
-      "guest_count": 58,
+      "guest_count": 57,
       "host_name": "Marcel Juenemann",
       "area": "",
       "address": "The Bricklayers Arms, London, United Kingdom",
@@ -2960,7 +2960,7 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "status": "sold_out",
-      "guest_count": 134,
+      "guest_count": 139,
       "host_name": "Francisco Terpolilli \ud83e\udd0c",
       "area": "",
       "address": "Halkin - 1-2 Paris Garden, London, United Kingdom",
@@ -3658,6 +3658,44 @@
       "summary": "An evening event for founders to network and discuss entrepreneurial challenges and opportunities.",
       "_classified": true,
       "_classified_at": "2026-07-29T07:01:51.225563+00:00",
+      "promoted": false
+    },
+    {
+      "event_id": "evt-HpAEAsSkVCqNSak",
+      "title": "Lab Automation with Opentrons",
+      "event_link": "https://lu.ma/20t2idnb",
+      "cover_link": "https://images.lumacdn.com/uploads/a1/08ac3a4c-40ca-45bd-8052-bd9503694d47.png",
+      "start_at": "2026-08-04T17:00:00.000Z",
+      "end_at": "2026-08-04T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "city": "London",
+      "country": "United Kingdom",
+      "mode": "in_person",
+      "status": "approval_required",
+      "guest_count": 53,
+      "host_name": "Jamie Tomalin",
+      "area": "",
+      "address": "Senna Building, London, United Kingdom",
+      "lat": 51.5301547,
+      "lng": -0.0754746,
+      "is_free": false,
+      "spots_remaining": null,
+      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_11.png",
+      "host_username": "BiB_LDN",
+      "calendar_name": "Bits in Bio London",
+      "scraped_for_city": "london",
+      "scraped_via_slug": "tech",
+      "description": "",
+      "audiences": [
+        "founders",
+        "operators"
+      ],
+      "industries": [
+        "healthtech"
+      ],
+      "summary": "Jamie Tomalin presents a session on lab automation using Opentrons at Bits in Bio London, targeting biotech enthusiasts.",
+      "_classified": true,
+      "_classified_at": "2026-05-28T07:05:33.732861+00:00",
       "promoted": false
     },
     {
