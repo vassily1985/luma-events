@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T07:08:44.508268+00:00",
+  "generated_at": "2026-07-30T07:15:19.166703+00:00",
   "region": "uk",
   "cities": [
     "london",
@@ -1888,7 +1888,7 @@
       "country": "United Kingdom",
       "mode": "in_person",
       "status": "sold_out",
-      "guest_count": 183,
+      "guest_count": 185,
       "host_name": "Francisco Terpolilli \ud83e\udd0c",
       "area": "",
       "address": "Halkin - 1-2 Paris Garden, London, United Kingdom",
