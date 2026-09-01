@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 497,
+  "count": 496,
   "events": [
     {
       "event_id": "evt-oXJiBQlmC43Pu7r",
@@ -3016,43 +3016,6 @@
       "summary": "An evening event focused on women creators in the AI space, hosted by BuildHer Labs.",
       "_classified": true,
       "_classified_at": "2026-08-24T07:08:34.958324+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-CjGkIb6l3uBnt2N",
-      "title": "Hack for Humanity (w/ The AI Collective)",
-      "event_link": "https://lu.ma/aic-na-9-5",
-      "cover_link": "https://images.lumacdn.com/api-uploads/0v/fbdb435e-a7ee-451a-8859-97364a1593ff.png",
-      "start_at": "2026-09-05T07:00:00.000Z",
-      "end_at": "2026-09-05T21:30:00.000Z",
-      "timezone": "Asia/Riyadh",
-      "city": "",
-      "country": "",
-      "mode": "online",
-      "status": "open",
-      "guest_count": 0,
-      "host_name": "AI Collective",
-      "area": "",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "is_free": false,
-      "spots_remaining": null,
-      "host_avatar": "",
-      "host_username": "",
-      "calendar_name": "AI Collective",
-      "scraped_for_city": "calendar:AI Collective",
-      "scraped_via_slug": "calendar",
-      "description": "",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [
-        "ai"
-      ],
-      "summary": "A hackathon event by The AI Collective aimed at solving humanitarian issues using AI.",
-      "_classified": true,
-      "_classified_at": "2026-07-24T07:01:55.211394+00:00",
       "promoted": false
     },
     {
