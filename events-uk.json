@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 496,
+  "count": 495,
   "events": [
     {
       "event_id": "evt-oXJiBQlmC43Pu7r",
@@ -10416,43 +10416,6 @@
       "summary": "A social and running event for startup operators, organized by Rachel Macnaghten, fostering community among industry professionals.",
       "_classified": true,
       "_classified_at": "2026-08-24T07:08:34.958324+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-liyy80FWkLL0l9y",
-      "title": "Talent~People Hackathon: Dragons Den Edition",
-      "event_link": "https://lu.ma/rsxxsn7m",
-      "cover_link": "https://images.lumacdn.com/uploads/ud/0d51baf3-a34f-43c8-8a98-d5d078fc6a88.png",
-      "start_at": "2026-09-16T07:30:00.000Z",
-      "end_at": "2026-09-16T09:30:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 27,
-      "host_name": "Luc Adamson",
-      "area": "",
-      "address": "Shoreditch Treehouse, London, United Kingdom",
-      "lat": 51.5250737,
-      "lng": -0.0812566,
-      "is_free": true,
-      "spots_remaining": null,
-      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_13.png",
-      "host_username": null,
-      "calendar_name": "Talent ~ People",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "description": "",
-      "audiences": [
-        "founders",
-        "students",
-        "operators"
-      ],
-      "industries": [],
-      "summary": "A Dragons Den themed hackathon hosted by Luc Adamson, focusing on talent and people dynamics.",
-      "_classified": true,
-      "_classified_at": "2026-07-31T07:01:41.622454+00:00",
       "promoted": false
     },
     {
