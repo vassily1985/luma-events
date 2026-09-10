@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 495,
+  "count": 494,
   "events": [
     {
       "event_id": "evt-oXJiBQlmC43Pu7r",
@@ -7000,41 +7000,6 @@
       "summary": "CAST hosts a discussion on the role of philanthropy in the era of artificial intelligence, emphasizing trust as a new form of evidence.",
       "_classified": true,
       "_classified_at": "2026-07-28T07:01:33.084345+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-CIuRpDNbGOFy4CJ",
-      "title": "Scientist to Founder: Edinburgh",
-      "event_link": "https://lu.ma/concep-67bu",
-      "cover_link": "https://images.lumacdn.com/uploads/10/54438f7a-f6c5-4804-93ba-4bdfb1e0e834.png",
-      "start_at": "2026-09-10T09:00:00.000Z",
-      "end_at": "2026-09-10T12:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "Edinburgh",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 0,
-      "host_name": "Conception X",
-      "area": "Edinburgh Old Town",
-      "address": "Edinburgh Old Town, Edinburgh, United Kingdom",
-      "lat": 55.95272549704218,
-      "lng": -3.1819372041207865,
-      "is_free": true,
-      "spots_remaining": 73,
-      "host_avatar": "https://images.lumacdn.com/uploads/w9/032ec6ee-388b-49b4-8769-c9eb63694cbc.png",
-      "host_username": "conceptionx",
-      "calendar_name": "Conception X",
-      "scraped_for_city": "edinburgh",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "An event by Conception X aimed at helping scientists transition into startup founders in Edinburgh.",
-      "_classified": true,
-      "_classified_at": "2026-08-01T07:01:25.622391+00:00",
       "promoted": false
     },
     {
