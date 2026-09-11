@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 494,
+  "count": 493,
   "events": [
     {
       "event_id": "evt-oXJiBQlmC43Pu7r",
@@ -15136,43 +15136,6 @@
       "description": "",
       "_classified": true,
       "_classified_at": "2026-04-28T23:27:15.432951+00:00"
-    },
-    {
-      "event_id": "evt-dSeD50vDKqydvuE",
-      "title": "Laravel London // September Meetup",
-      "event_link": "https://lu.ma/2xui0w94",
-      "cover_link": "https://images.lumacdn.com/event-covers/d4/2c3e78eb-d499-46e5-a0c9-2e850db93b60.jpg",
-      "start_at": "2026-09-23T17:00:00.000Z",
-      "end_at": "2026-09-23T20:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 29,
-      "host_name": "Daniel Newns",
-      "area": "",
-      "address": "Vonage, London, United Kingdom",
-      "lat": 51.523037099999996,
-      "lng": -0.0852492,
-      "is_free": true,
-      "spots_remaining": 71,
-      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_36.png",
-      "host_username": "dannewns",
-      "calendar_name": "Laravel London",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "operators"
-      ],
-      "industries": [
-        "devtools"
-      ],
-      "summary": "A monthly meetup for Laravel developers in London, hosted by Daniel Newns, focusing on PHP and web development.",
-      "_classified": true,
-      "_classified_at": "2026-06-21T14:51:29.681517+00:00",
-      "promoted": false
     },
     {
       "event_id": "evt-LCAIjQhx63f5Q2u",
