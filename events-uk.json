@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 493,
+  "count": 492,
   "events": [
     {
       "event_id": "evt-oXJiBQlmC43Pu7r",
@@ -14900,41 +14900,6 @@
       "summary": "A social gathering hosted by Noma, Vega, Horizon3, and Sublime, likely aimed at fostering connections within the tech community.",
       "_classified": true,
       "_classified_at": "2026-08-24T07:08:34.958324+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-CFPaxOZAinTFnJU",
-      "title": "Founders Meetup - London",
-      "event_link": "https://lu.ma/df7bitik",
-      "cover_link": "https://images.lumacdn.com/uploads/yg/49acaa09-c27b-4f41-85e8-c471db411a1a.png",
-      "start_at": "2026-09-23T15:30:00.000Z",
-      "end_at": "2026-09-23T16:30:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 5,
-      "host_name": "Sridhar Arunagiri",
-      "area": "",
-      "address": "Corgi Cafe, London, United Kingdom",
-      "lat": 51.525692199999995,
-      "lng": -0.0824866,
-      "is_free": true,
-      "spots_remaining": 95,
-      "host_avatar": "https://images.lumacdn.com/avatars/ch/5a39b210-a7a9-446a-b76d-8ea649a535f4.png",
-      "host_username": "sridhar",
-      "calendar_name": "16VC",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "A gathering for startup founders in London to network and share experiences.",
-      "_classified": true,
-      "_classified_at": "2026-08-26T07:03:27.464239+00:00",
       "promoted": false
     },
     {
