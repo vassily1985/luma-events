@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 491,
+  "count": 490,
   "events": [
     {
       "event_id": "evt-oXJiBQlmC43Pu7r",
@@ -11263,41 +11263,6 @@
       "summary": "REX, Unearthed is an event hosted by Flowla, which seems to be a personal calendar event, with no specific details provided about its focus or target audience.",
       "_classified": true,
       "_classified_at": "2026-08-26T07:03:27.464239+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-DUbYPH1idkjDqgD",
-      "title": "09. Rooftop September Social",
-      "event_link": "https://lu.ma/20ie5u1w",
-      "cover_link": "https://images.lumacdn.com/uploads/1d/009e8ef7-b02b-4460-8dbc-e2c795ddcab0.jpg",
-      "start_at": "2026-09-16T17:30:00.000Z",
-      "end_at": "2026-09-16T20:30:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 5,
-      "host_name": "Zarmi",
-      "area": "",
-      "address": "London, United Kingdom",
-      "lat": 51.51033497064287,
-      "lng": -0.10636615070179765,
-      "is_free": true,
-      "spots_remaining": 70,
-      "host_avatar": "https://images.lumacdn.com/uploads/xv/784ede85-bd51-43aa-b794-77973ea612df.jpg",
-      "host_username": "zarmi",
-      "calendar_name": "Personal",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "A rooftop social event in September, hosted by Zarmi, offering a casual setting for networking and socializing.",
-      "_classified": true,
-      "_classified_at": "2026-08-24T07:08:34.958324+00:00",
       "promoted": false
     },
     {
