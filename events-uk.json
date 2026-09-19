@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 490,
+  "count": 489,
   "events": [
     {
       "event_id": "evt-oXJiBQlmC43Pu7r",
@@ -13418,44 +13418,6 @@
       "summary": "TailscaleUp London presents an executive event, which is a high-level gathering for industry professionals.",
       "_classified": true,
       "_classified_at": "2026-07-28T07:01:33.084345+00:00",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-t2xa1qPcXDl9AQo",
-      "title": "Fluss Forward - London",
-      "event_link": "https://lu.ma/ververica-dbty",
-      "cover_link": "https://images.lumacdn.com/uploads/e2/6934635e-d69b-4e80-8474-fde497e39034.png",
-      "start_at": "2026-09-22T08:00:00.000Z",
-      "end_at": "2026-09-22T20:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 43,
-      "host_name": "Ververica GmbH",
-      "area": "",
-      "address": "Vauxhall Arches, London, United Kingdom",
-      "lat": 51.4844912,
-      "lng": -0.12327060000000001,
-      "is_free": true,
-      "spots_remaining": 107,
-      "host_avatar": "https://images.lumacdn.com/avatars/fk/117173f3-930a-4561-9cd3-ae6a53091670.png",
-      "host_username": "ververica",
-      "calendar_name": "Ververica",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "founders",
-        "operators"
-      ],
-      "industries": [
-        "devtools"
-      ],
-      "summary": "Fluss Forward - London is an event by Ververica GmbH, focusing on the latest advancements in data streaming technology.",
-      "_classified": true,
-      "_classified_at": "2026-08-24T07:08:34.958324+00:00",
       "promoted": false
     },
     {
