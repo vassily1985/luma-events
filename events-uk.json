@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 480,
+  "count": 478,
   "events": [
     {
       "event_id": "evt-pQEE6yABjLpmDe9",
@@ -2049,42 +2049,6 @@
       ],
       "industries": [],
       "summary": "",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-YTptc6QOfZYvO77",
-      "title": "Talent Leaders networking evening",
-      "event_link": "https://lu.ma/jquy83tm",
-      "cover_link": "https://images.lumacdn.com/uploads/jj/d1ab2e36-4513-4609-b200-bd9be55a0041.png",
-      "start_at": "2026-10-07T16:00:00.000Z",
-      "end_at": "2026-10-07T19:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 0,
-      "host_name": "3Search Group",
-      "area": "",
-      "address": "London, United Kingdom",
-      "lat": 51.50639085159586,
-      "lng": -0.1252250646901127,
-      "is_free": true,
-      "spots_remaining": 66,
-      "host_avatar": "https://images.lumacdn.com/avatars/as/568f0373-9f5a-4be4-8ac7-00dee847a637.png",
-      "host_username": "3Search",
-      "calendar_name": "3Search London",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
-      "description": "",
-      "audiences": [
-        "founders",
-        "operators"
-      ],
-      "industries": [],
-      "summary": "The Talent Leaders networking evening is designed for professionals in talent acquisition and human resources to connect and share insights, beneficial for founders seeking to build strong teams.",
-      "_classified": true,
-      "_classified_at": "2026-08-24T07:08:34.958324+00:00",
       "promoted": false
     },
     {
@@ -6531,38 +6495,6 @@
       "calendar_name": "Encode Club",
       "scraped_for_city": "london",
       "scraped_via_slug": "ai",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-W410UKGQj4Aa4bK",
-      "title": "The (Unofficial) Legal Geek Kick Off!",
-      "event_link": "https://lu.ma/5l4bn39p",
-      "cover_link": "https://images.unsplash.com/photo-1615887026505-00283cf0ff83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjQyMjF8MHwxfHNlYXJjaHw2MHx8Q29ja3RhaWx8ZW58MHx8fHwxNzg3OTMyMTI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "start_at": "2026-10-13T18:00:00.000Z",
-      "end_at": "2026-10-13T21:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "open",
-      "guest_count": 15,
-      "host_name": "Marie Widmer",
-      "area": "Shoreditch",
-      "address": "Shoreditch, London, United Kingdom",
-      "lat": 51.52718495628031,
-      "lng": -0.07628028801759174,
-      "is_free": true,
-      "spots_remaining": null,
-      "host_avatar": "https://images.lumacdn.com/avatars/67/6cc53f94-76c8-45b6-af77-ada19a5d304a.jpg",
-      "host_username": "mariewidmer",
-      "calendar_name": "Personal",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "tech",
       "audiences": [
         "founders"
       ],
