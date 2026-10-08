@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 478,
+  "count": 475,
   "events": [
     {
       "event_id": "evt-pQEE6yABjLpmDe9",
@@ -3339,38 +3339,6 @@
       "promoted": false
     },
     {
-      "event_id": "evt-4m2abC0FgHNipDH",
-      "title": "Builders Club #05",
-      "event_link": "https://lu.ma/builders-club-5",
-      "cover_link": "https://images.lumacdn.com/uploads/up/269d8e50-a2b2-4f44-a05d-423c9a9803e2.jpg",
-      "start_at": "2026-10-08T15:00:00.000Z",
-      "end_at": "2026-10-08T18:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 0,
-      "host_name": "Victoria Lawless",
-      "area": "",
-      "address": "22 Upper Woburn Pl, London, United Kingdom",
-      "lat": 51.526139300000004,
-      "lng": -0.1294637,
-      "is_free": true,
-      "spots_remaining": 5,
-      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_20.png",
-      "host_username": "Light.inc",
-      "calendar_name": "Light",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "",
-      "promoted": false
-    },
-    {
       "event_id": "evt-N7YX6KGZIJlofKi",
       "title": "Manchester Venture Builder Demo Day 26",
       "event_link": "https://lu.ma/8w8z0tm6",
@@ -5609,38 +5577,6 @@
       "promoted": false
     },
     {
-      "event_id": "evt-WE06nxHxuBUDNNC",
-      "title": "Create, ship and sell your first digital product",
-      "event_link": "https://lu.ma/aiafter5-in1w",
-      "cover_link": "https://images.lumacdn.com/uploads/7i/f5ee87ae-3b65-4290-b8bb-65b9051a3e16.png",
-      "start_at": "2026-10-12T17:00:00.000Z",
-      "end_at": "2026-10-12T19:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "London",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 0,
-      "host_name": "M\u00e9lissa Chan-Cheape",
-      "area": "",
-      "address": "5 Charlotte Rd, London, United Kingdom",
-      "lat": 51.5263815,
-      "lng": -0.0813708,
-      "is_free": true,
-      "spots_remaining": 17,
-      "host_avatar": "https://images.lumacdn.com/avatars/s6/218e57d3-2f61-4a5e-8a32-c4d7f90210f0.jpg",
-      "host_username": "aiafter5",
-      "calendar_name": "AI After 5",
-      "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "",
-      "promoted": false
-    },
-    {
       "event_id": "evt-XvopUTFZ94XzAtR",
       "title": "Stripe padel club",
       "event_link": "https://lu.ma/qkkci0m1",
@@ -7061,45 +6997,6 @@
       ],
       "industries": [],
       "summary": "",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-VqJLcNRFMluK5qx",
-      "title": "Can AI Help Prevent Toxic Relationships and Gender-Based Violence? Lessons from Finland and Brazil",
-      "event_link": "https://lu.ma/aic-gl-10-14",
-      "cover_link": "https://images.lumacdn.com/uploads/9k/215d5d2f-3a31-43f8-8486-83d2c67d9172.png",
-      "start_at": "2026-10-14T16:00:00.000Z",
-      "end_at": "2026-10-14T17:30:00.000Z",
-      "timezone": "Europe/Paris",
-      "city": "",
-      "country": "",
-      "mode": "online",
-      "status": "open",
-      "guest_count": 0,
-      "host_name": "AI Collective",
-      "area": "",
-      "address": "",
-      "lat": null,
-      "lng": null,
-      "is_free": false,
-      "spots_remaining": null,
-      "host_avatar": "https://images.lumacdn.com/calendars/0w/e35ab921-a45a-454e-b3dd-20501c0698fe.png",
-      "host_username": "",
-      "calendar_name": "AI Collective",
-      "scraped_for_city": "calendar:AI Collective",
-      "scraped_via_slug": "calendar",
-      "description": "",
-      "audiences": [
-        "founders",
-        "operators"
-      ],
-      "industries": [
-        "ai",
-        "healthtech"
-      ],
-      "summary": "A discussion on the potential of AI in preventing toxic relationships and gender-based violence, drawing on experiences from Finland and Brazil.",
-      "_classified": true,
-      "_classified_at": "2026-06-14T07:01:17.262157+00:00",
       "promoted": false
     },
     {
