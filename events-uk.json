@@ -14,7 +14,7 @@
     "belfast",
     "leeds"
   ],
-  "count": 474,
+  "count": 473,
   "events": [
     {
       "event_id": "evt-pQEE6yABjLpmDe9",
@@ -6991,38 +6991,6 @@
       "host_username": "kevinmonserrat",
       "calendar_name": "Personal",
       "scraped_for_city": "london",
-      "scraped_via_slug": "ai",
-      "audiences": [
-        "founders"
-      ],
-      "industries": [],
-      "summary": "",
-      "promoted": false
-    },
-    {
-      "event_id": "evt-11tdBqKpSNbAfIN",
-      "title": "AI, Career, & Startups: Q&A with Arman Tsaturian",
-      "event_link": "https://lu.ma/odosrqc4",
-      "cover_link": "https://images.lumacdn.com/uploads/49/65d573ed-f5a0-4ebc-8b6c-ef6cd8144595.jpg",
-      "start_at": "2026-10-14T16:00:00.000Z",
-      "end_at": "2026-10-14T17:00:00.000Z",
-      "timezone": "Europe/London",
-      "city": "Oxford",
-      "country": "United Kingdom",
-      "mode": "in_person",
-      "status": "approval_required",
-      "guest_count": 6,
-      "host_name": "Marina Ordukhanyan",
-      "area": "City Centre",
-      "address": "Oxford Edge, City Centre, Oxford, United Kingdom",
-      "lat": 51.758188399999995,
-      "lng": -1.2607698,
-      "is_free": true,
-      "spots_remaining": 34,
-      "host_avatar": "https://cdn.lu.ma/avatars-default/avatar_26.png",
-      "host_username": null,
-      "calendar_name": "Personal",
-      "scraped_for_city": "oxford",
       "scraped_via_slug": "ai",
       "audiences": [
         "founders"
