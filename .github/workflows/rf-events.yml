@@ -1,7 +1,7 @@
 name: Update RF Luma events feed
 on:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "20 5 * * *"
   workflow_dispatch:
 permissions:
   contents: write
