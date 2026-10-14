@@ -1,0 +1,78 @@
+name: Update UK events feed
+
+on:
+  schedule:
+    # ~05:15 UTC daily ≈ 06:15 UK during BST
+    - cron: "15 5 * * *"
+  workflow_dispatch:
+    inputs:
+      skip_sweep:
+        description: "Skip dead-link sweep (faster)"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-events-uk
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Decide sweep flag
+        id: flags
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.skip_sweep }}" = "true" ]; then
+            echo "SKIP_SWEEP=1" >> "$GITHUB_ENV"
+          else
+            echo "SKIP_SWEEP=0" >> "$GITHUB_ENV"
+          fi
+
+      - name: Run pipeline (scrape + rule tags)
+        env:
+          ENABLED_REGIONS: uk
+          MIN_EVENTS: "100"
+        run: |
+          set -euo pipefail
+          echo "=== scrape ==="
+          python3 main.py
+          echo "=== dead-link sweep (SKIP_SWEEP=${SKIP_SWEEP}) ==="
+          python3 sweep_dead_links.py
+          echo "=== done ==="
+          python3 -c "import json; d=json.load(open('events-uk.json')); print(f'events-uk.json count={d[\"count\"]} generated_at={d[\"generated_at\"]}')"
+
+      - name: Commit and push if changed
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Only stage feed + cache (tags persist). Never stage secrets.
+          git add events-uk.json cache-uk.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+            exit 0
+          fi
+
+          COUNT=$(python3 -c "import json; print(json.load(open('events-uk.json')).get('count',0))")
+          STAMP=$(date -u +"%Y-%m-%dT%H:%MZ")
+          git commit -m "auto: ${STAMP} (${COUNT} events)"
+          git push origin HEAD:${{ github.ref_name }}

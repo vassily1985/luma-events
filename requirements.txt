@@ -1,0 +1,2 @@
+# Stdlib only — no third-party packages required.
+# Kept so Actions / pip workflows have a clear empty dependency file.
