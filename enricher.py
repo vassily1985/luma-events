@@ -69,30 +69,45 @@ def _html_unescape(s: str) -> str:
     return html.unescape(s)
 
 
-def fetch_event_description(url: str) -> str:
-    if not url:
+def _doc_text(node) -> str:
+    if isinstance(node, dict):
+        t = node.get("text", "")
+        kids = " ".join(_doc_text(c) for c in node.get("content", []) or [])
+        return (t + " " + kids).strip()
+    if isinstance(node, list):
+        return " ".join(_doc_text(c) for c in node)
+    return ""
+
+
+def fetch_event_description(event_id: str) -> str:
+    """Plain-text description via Luma's public event API (with 429 backoff)."""
+    if not event_id:
         return ""
-    try:
-        req = Request(url, headers={"User-Agent": UA})
-        with urlopen(req, timeout=15) as resp:
-            page = resp.read().decode("utf-8", errors="replace")
-    except Exception as e:
-        print(f"  description fetch failed for {url}: {e}")
-        return ""
-    for pat in (r'<meta[^>]+property=["\']og:description["\'][^>]+content="([^"]*)"',
-                r'<meta[^>]+name=["\']description["\'][^>]+content="([^"]*)"'):
-        m = re.search(pat, page)
-        if m:
-            return _html_unescape(m.group(1)).strip()
+    url = f"https://api.lu.ma/event/get?event_api_id={event_id}"
+    for attempt in range(4):
+        try:
+            req = Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+            with urlopen(req, timeout=20) as resp:
+                data = json.loads(resp.read())
+            return re.sub(r"\s+", " ", _doc_text(data.get("description_mirror") or {})).strip()
+        except Exception as e:
+            if "429" in str(e) and attempt < 3:
+                time.sleep(5 * (attempt + 1))
+                continue
+            print(f"  description fetch failed for {event_id}: {e}")
+            return ""
     return ""
 
 
 def fetch_descriptions(events: list[dict]) -> None:
     todo = [e for e in events if not e.get("description")]
     def one(e):
-        e["description"] = fetch_event_description(e.get("event_link", ""))
-    with ThreadPoolExecutor(max_workers=6) as ex:
+        e["description"] = fetch_event_description(e.get("event_id", ""))
+        time.sleep(0.3)
+    with ThreadPoolExecutor(max_workers=int(os.environ.get("DESC_WORKERS", "3"))) as ex:
         list(ex.map(one, todo))
+    ok = sum(1 for e in todo if e.get("description"))
+    print(f"Descriptions: fetched {ok}/{len(todo)}")
 
 
 def call_moonshot(prompt: str, api_key: str) -> str:

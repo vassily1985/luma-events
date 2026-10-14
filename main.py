@@ -159,7 +159,9 @@ def llm_enrich(merged: dict, luma_by_id: dict, now_iso: str) -> None:
     try:
         todo = [merged[eid] for eid in luma_by_id
                 if merged[eid].get("_classified_via") != "llm"
-                or merged[eid].get("_llm_title") != merged[eid].get("title")]
+                or merged[eid].get("_llm_title") != merged[eid].get("title")
+                or not merged[eid].get("_llm_desc")]
+        todo = [r for r in todo if is_in_window(r)]
         cap = int(os.environ.get("LLM_MAX_EVENTS", "800"))
         todo = todo[:cap]
         if not todo:
@@ -167,6 +169,9 @@ def llm_enrich(merged: dict, luma_by_id: dict, now_iso: str) -> None:
             return
         work = [dict(r) for r in todo]
         enricher.fetch_descriptions(work)
+        # Events previously enriched without a description: only redo if we now have one.
+        work = [w for w in work if w.get("_classified_via") != "llm"
+                or w.get("_llm_title") != w.get("title") or w.get("description")]
         results = enricher.enrich_events(work, api_key)
         applied = 0
         for w in work:
@@ -182,6 +187,7 @@ def llm_enrich(merged: dict, luma_by_id: dict, now_iso: str) -> None:
             rec["_classified_at"] = now_iso
             rec["_llm_title"] = rec.get("title")
             rec["_llm_hash"] = enricher.content_hash(w)
+            rec["_llm_desc"] = bool(w.get("description"))
             applied += 1
         u = enricher.USAGE
         cost = u["prompt_tokens"] / 1e6 * 0.95 + u["completion_tokens"] / 1e6 * 4.00
@@ -226,7 +232,7 @@ def run_for_region(
             k: record[k]
             for k in ("audiences", "industries", "summary",
                       "_classified", "_classified_at", "_classified_via",
-                      "_llm_hash", "_llm_title")
+                      "_llm_hash", "_llm_title", "_llm_desc")
             if k in record
         }
         record.update(e)          # fresh volatile fields
