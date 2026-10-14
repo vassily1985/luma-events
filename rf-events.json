@@ -1,0 +1,47 @@
+{
+  "calendar_id": "cal-ABeCUrnGg1dt37l",
+  "count": 5,
+  "events": [
+    {
+      "name": "Dev Grind",
+      "start_at": "2026-10-16T08:00:00.000Z",
+      "end_at": "2026-10-16T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/f1k3ah70",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/z8/1c186a5b-e384-443b-a6ea-1c61887568ad.jpg"
+    },
+    {
+      "name": "Fem Grind",
+      "start_at": "2026-10-23T08:00:00.000Z",
+      "end_at": "2026-10-23T20:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/cvy3ez9h",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/iu/84821e8e-474f-483a-a7a4-206193562bc3.png"
+    },
+    {
+      "name": "The Distribution Edge: What Actually Works + Open Mic Pitching",
+      "start_at": "2026-10-26T18:00:00.000Z",
+      "end_at": "2026-10-26T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/icbl5cj9",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/ke/7d458d18-9c92-4e2f-8bfb-1f918192fa5b.png"
+    },
+    {
+      "name": "Rare Grind",
+      "start_at": "2026-10-30T09:00:00.000Z",
+      "end_at": "2026-10-30T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/xtrc6gay",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/y5/3512df2d-bc8c-49ad-8673-05da1b7ad81d.png"
+    },
+    {
+      "name": "Founder and Engineer Matching",
+      "start_at": "2026-11-24T18:00:00.000Z",
+      "end_at": "2026-11-24T22:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/cuahpc5n",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/r2/94be307c-e52c-4d53-b151-65cf35c26a73.png"
+    }
+  ],
+  "generated_at": "2026-10-14T22:19:36Z"
+}
