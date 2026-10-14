@@ -1,7 +1,9 @@
 """
 Orchestrator — UK (and optional multi-region) Lu.ma scrape → events-<region>.json.
 
-No LLM. Rule-based tagging via rules_tagger.py.
+Rules tagging (rules_tagger.py) for every event, then optional LLM enrichment
+(enricher.py, Moonshot Kimi) when MOONSHOT_API_KEY is set. LLM failures fall
+back to rules tags and never block publishing.
 Hard-fails (non-zero exit) if a region scrape yields fewer than MIN_EVENTS
 or if the discovery API throws — so CI never publishes an empty/stale file.
 """
@@ -18,6 +20,7 @@ import scraper
 import gsheet_loader
 import gsheet_calendars
 import rules_tagger
+import enricher
 
 HERE = Path(__file__).resolve().parent
 
@@ -147,6 +150,47 @@ def scrape_region(
     return luma_by_id
 
 
+def llm_enrich(merged: dict, luma_by_id: dict, now_iso: str) -> None:
+    """Upgrade rules tags with LLM tags for new/changed events in this scrape."""
+    api_key = os.environ.get("MOONSHOT_API_KEY", "").strip()
+    if not api_key:
+        print("(no MOONSHOT_API_KEY; keeping rules tags)")
+        return
+    try:
+        todo = [merged[eid] for eid in luma_by_id
+                if merged[eid].get("_classified_via") != "llm"
+                or merged[eid].get("_llm_title") != merged[eid].get("title")]
+        cap = int(os.environ.get("LLM_MAX_EVENTS", "800"))
+        todo = todo[:cap]
+        if not todo:
+            print("LLM: nothing new to enrich")
+            return
+        work = [dict(r) for r in todo]
+        enricher.fetch_descriptions(work)
+        results = enricher.enrich_events(work, api_key)
+        applied = 0
+        for w in work:
+            r = results.get(w["event_id"])
+            if not r:
+                continue  # keep rules tags; retried next run
+            rec = merged[w["event_id"]]
+            rec["audiences"] = r["audiences"]
+            rec["industries"] = r["industries"]
+            if r["summary"]:
+                rec["summary"] = r["summary"]
+            rec["_classified_via"] = "llm"
+            rec["_classified_at"] = now_iso
+            rec["_llm_title"] = rec.get("title")
+            rec["_llm_hash"] = enricher.content_hash(w)
+            applied += 1
+        u = enricher.USAGE
+        cost = u["prompt_tokens"] / 1e6 * 0.95 + u["completion_tokens"] / 1e6 * 4.00
+        print(f"LLM: applied {applied}/{len(work)}; tokens in={u['prompt_tokens']} "
+              f"out={u['completion_tokens']} est_cost=${cost:.4f}")
+    except Exception as e:
+        print(f"LLM enrichment error (keeping rules tags): {type(e).__name__}: {e}")
+
+
 def run_for_region(
     region: str,
     cities: list[str],
@@ -181,7 +225,8 @@ def run_for_region(
         preserved = {
             k: record[k]
             for k in ("audiences", "industries", "summary",
-                      "_classified", "_classified_at", "_classified_via")
+                      "_classified", "_classified_at", "_classified_via",
+                      "_llm_hash", "_llm_title")
             if k in record
         }
         record.update(e)          # fresh volatile fields
@@ -206,6 +251,8 @@ def run_for_region(
         merged[eid] = record
 
     print(f"[{region}] newly rule-tagged: {newly_tagged}")
+
+    llm_enrich(merged, luma_by_id, now_iso)
 
     # Promoted overlay (sheet), scoped by city when set.
     region_cities_lower = {c.lower() for c in cities}

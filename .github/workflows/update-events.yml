@@ -45,10 +45,12 @@ jobs:
             echo "SKIP_SWEEP=0" >> "$GITHUB_ENV"
           fi
 
-      - name: Run pipeline (scrape + rule tags)
+      - name: Run pipeline (scrape + rule tags + Kimi enrichment)
         env:
           ENABLED_REGIONS: uk
           MIN_EVENTS: "100"
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          MOONSHOT_MODEL: ${{ vars.MOONSHOT_MODEL || 'kimi-k2.6' }}
         run: |
           set -euo pipefail
           echo "=== scrape ==="

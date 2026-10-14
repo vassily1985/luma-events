@@ -103,3 +103,6 @@ Each event keeps the fields the Squarespace embed already reads, including:
 ## Cost
 
 £0 — public Lu.ma HTTP + free GitHub Actions minutes + GitHub Pages.
+
+## LLM enrichment (optional)
+If the `MOONSHOT_API_KEY` repo secret is set, `enricher.py` sends new or retitled events to Moonshot Kimi (`kimi-k2.6` by default; override with the `MOONSHOT_MODEL` repo variable). It sends them in batches of 10, with thinking off and JSON output. The result is a summary plus audiences and industries from the fixed taxonomy. Results are cached per event in `cache-uk.json`. If any API call fails, those events keep their rules_tagger tags and are retried on the next run, so publishing is never blocked.
