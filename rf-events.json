@@ -1,6 +1,6 @@
 {
   "calendar_id": "cal-ABeCUrnGg1dt37l",
-  "count": 5,
+  "count": 6,
   "events": [
     {
       "name": "Dev Grind",
@@ -41,7 +41,15 @@
       "timezone": "Europe/London",
       "url": "https://luma.com/cuahpc5n",
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/r2/94be307c-e52c-4d53-b151-65cf35c26a73.png"
+    },
+    {
+      "name": "The Legendary Startup Christmas Party!",
+      "start_at": "2026-12-08T18:00:00.000Z",
+      "end_at": "2026-12-09T00:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/x37w6552",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/9y/2c4d57c4-afcb-4bcf-adc1-dc7fd51b4fd4.png"
     }
   ],
-  "generated_at": "2026-10-14T22:19:36Z"
+  "generated_at": "2026-10-16T09:53:56Z"
 }
