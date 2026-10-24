@@ -77,4 +77,4 @@ jobs:
           COUNT=$(python3 -c "import json; print(json.load(open('events-uk.json')).get('count',0))")
           STAMP=$(date -u +"%Y-%m-%dT%H:%MZ")
           git commit -m "auto: ${STAMP} (${COUNT} events)"
-          git push origin HEAD:${{ github.ref_name }}
+          for i in 1 2 3; do git pull --rebase origin ${{ github.ref_name }} && git push origin HEAD:${{ github.ref_name }} && break; sleep 5; done
