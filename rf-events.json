@@ -1,15 +1,7 @@
 {
   "calendar_id": "cal-ABeCUrnGg1dt37l",
-  "count": 5,
+  "count": 4,
   "events": [
-    {
-      "name": "Fem Grind",
-      "start_at": "2026-10-23T08:00:00.000Z",
-      "end_at": "2026-10-23T20:00:00.000Z",
-      "timezone": "Europe/London",
-      "url": "https://luma.com/cvy3ez9h",
-      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/iu/84821e8e-474f-483a-a7a4-206193562bc3.png"
-    },
     {
       "name": "The Distribution Edge: What Actually Works + Open Mic Pitching",
       "start_at": "2026-10-26T18:00:00.000Z",
@@ -43,5 +35,5 @@
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/9y/2c4d57c4-afcb-4bcf-adc1-dc7fd51b4fd4.png"
     }
   ],
-  "generated_at": "2026-10-17T09:26:42Z"
+  "generated_at": "2026-10-24T09:35:46Z"
 }
