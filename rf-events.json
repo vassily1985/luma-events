@@ -1,15 +1,7 @@
 {
   "calendar_id": "cal-ABeCUrnGg1dt37l",
-  "count": 4,
+  "count": 3,
   "events": [
-    {
-      "name": "The Distribution Edge: What Actually Works + Open Mic Pitching",
-      "start_at": "2026-10-26T18:00:00.000Z",
-      "end_at": "2026-10-26T22:00:00.000Z",
-      "timezone": "Europe/London",
-      "url": "https://luma.com/icbl5cj9",
-      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/ke/7d458d18-9c92-4e2f-8bfb-1f918192fa5b.png"
-    },
     {
       "name": "Rare Grind",
       "start_at": "2026-10-30T09:00:00.000Z",
@@ -35,5 +27,5 @@
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/9y/2c4d57c4-afcb-4bcf-adc1-dc7fd51b4fd4.png"
     }
   ],
-  "generated_at": "2026-10-24T09:35:46Z"
+  "generated_at": "2026-10-27T10:39:02Z"
 }
