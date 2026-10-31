@@ -1,15 +1,7 @@
 {
   "calendar_id": "cal-ABeCUrnGg1dt37l",
-  "count": 3,
+  "count": 2,
   "events": [
-    {
-      "name": "Rare Grind",
-      "start_at": "2026-10-30T09:00:00.000Z",
-      "end_at": "2026-10-30T22:00:00.000Z",
-      "timezone": "Europe/London",
-      "url": "https://luma.com/xtrc6gay",
-      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/y5/3512df2d-bc8c-49ad-8673-05da1b7ad81d.png"
-    },
     {
       "name": "Founder and Engineer Matching",
       "start_at": "2026-11-24T18:00:00.000Z",
@@ -27,5 +19,5 @@
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/9y/2c4d57c4-afcb-4bcf-adc1-dc7fd51b4fd4.png"
     }
   ],
-  "generated_at": "2026-10-27T10:39:02Z"
+  "generated_at": "2026-10-31T10:57:20Z"
 }
