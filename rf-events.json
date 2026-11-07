@@ -1,15 +1,7 @@
 {
   "calendar_id": "cal-ABeCUrnGg1dt37l",
-  "count": 5,
+  "count": 4,
   "events": [
-    {
-      "name": "Dev Grind",
-      "start_at": "2026-11-06T09:00:00.000Z",
-      "end_at": "2026-11-06T21:00:00.000Z",
-      "timezone": "Europe/London",
-      "url": "https://luma.com/s1oqngt1",
-      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/z8/1c186a5b-e384-443b-a6ea-1c61887568ad.jpg"
-    },
     {
       "name": "Fem Grind",
       "start_at": "2026-11-13T09:00:00.000Z",
@@ -43,5 +35,5 @@
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/9y/2c4d57c4-afcb-4bcf-adc1-dc7fd51b4fd4.png"
     }
   ],
-  "generated_at": "2026-11-03T12:50:56Z"
+  "generated_at": "2026-11-07T11:46:00Z"
 }
