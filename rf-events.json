@@ -1,6 +1,6 @@
 {
   "calendar_id": "cal-ABeCUrnGg1dt37l",
-  "count": 10,
+  "count": 12,
   "events": [
     {
       "name": "Rare Grind",
@@ -43,45 +43,61 @@
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/9y/2c4d57c4-afcb-4bcf-adc1-dc7fd51b4fd4.png"
     },
     {
-      "name": "Rare Grind",
+      "name": "LGBTQ+ Grind",
       "start_at": "2026-12-11T09:00:00.000Z",
-      "end_at": "2026-12-11T22:00:00.000Z",
+      "end_at": "2026-12-11T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/rare-32g2",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/api-uploads/30/1720d6d6-8923-4b25-89d4-0236fc80af70.png"
+    },
+    {
+      "name": "Rare Grind",
+      "start_at": "2027-01-08T09:00:00.000Z",
+      "end_at": "2027-01-08T22:00:00.000Z",
       "timezone": "Europe/London",
       "url": "https://luma.com/rare-6c6c",
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/y5/3512df2d-bc8c-49ad-8673-05da1b7ad81d.png"
     },
     {
       "name": "Dev Grind",
-      "start_at": "2027-01-08T09:00:00.000Z",
-      "end_at": "2027-01-08T21:00:00.000Z",
+      "start_at": "2027-01-15T09:00:00.000Z",
+      "end_at": "2027-01-15T21:00:00.000Z",
       "timezone": "Europe/London",
       "url": "https://luma.com/rare-3tm6",
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/z8/1c186a5b-e384-443b-a6ea-1c61887568ad.jpg"
     },
     {
       "name": "Fem Grind",
-      "start_at": "2027-01-15T09:00:00.000Z",
-      "end_at": "2027-01-15T21:00:00.000Z",
+      "start_at": "2027-01-22T09:00:00.000Z",
+      "end_at": "2027-01-22T21:00:00.000Z",
       "timezone": "Europe/London",
       "url": "https://luma.com/rare-hv5w",
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/iu/84821e8e-474f-483a-a7a4-206193562bc3.png"
     },
     {
+      "name": "LGBTQ+ Grind",
+      "start_at": "2027-01-29T09:00:00.000Z",
+      "end_at": "2027-01-29T21:00:00.000Z",
+      "timezone": "Europe/London",
+      "url": "https://luma.com/rare-v6p9",
+      "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/api-uploads/30/1720d6d6-8923-4b25-89d4-0236fc80af70.png"
+    },
+    {
       "name": "Rare Grind",
-      "start_at": "2027-01-22T09:00:00.000Z",
-      "end_at": "2027-01-22T22:00:00.000Z",
+      "start_at": "2027-02-05T09:00:00.000Z",
+      "end_at": "2027-02-05T22:00:00.000Z",
       "timezone": "Europe/London",
       "url": "https://luma.com/rare-3onn",
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/y5/3512df2d-bc8c-49ad-8673-05da1b7ad81d.png"
     },
     {
       "name": "Dev Grind",
-      "start_at": "2027-01-29T09:00:00.000Z",
-      "end_at": "2027-01-29T21:00:00.000Z",
+      "start_at": "2027-02-12T09:00:00.000Z",
+      "end_at": "2027-02-12T21:00:00.000Z",
       "timezone": "Europe/London",
       "url": "https://luma.com/rare-coaw",
       "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/uploads/z8/1c186a5b-e384-443b-a6ea-1c61887568ad.jpg"
     }
   ],
-  "generated_at": "2026-11-16T13:43:43Z"
+  "generated_at": "2026-11-17T14:31:50Z"
 }
